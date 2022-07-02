@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: pauln/nz-covid-data-updater
+      - uses: pauln/nz-covid-data-updater@v0.0.1
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update daily case data breakdown
