@@ -17,3 +17,4 @@ jobs:
           owner: minhealthnz
           base: main
           head: main
+          retries: 1
