@@ -1,0 +1,19 @@
+name: Update Data
+
+on:
+  push:
+    paths:
+      - 'cases/covid-cases.csv'
+  workflow_dispatch: # on button click
+
+jobs:
+  sync:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: pauln/nz-covid-data-updater
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update daily case data breakdown
