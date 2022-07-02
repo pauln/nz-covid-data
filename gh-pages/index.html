@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+<head>
+    <title>NZ Covid Cases by DHB/Region</title>
+    <meta charset="UTF-8">
+    <script src="https://cdn.jsdelivr.net/npm/luxon@2.4.0/build/global/luxon.min.js" integrity="sha256-DIsAGD2EF8Qq2PCH9yzX/yt9FliJfWf+aGcdgR6tKwo=" crossorigin="anonymous"></script>
+    <script src="scripts/main.js"></script>
+</head>
+<body>
+    <h1>NZ Covid Cases by DHB/Region</h1>
+    <h2>Daily number of new community cases, broken down by DHB/region</h2>
+    <button id="prev" onclick="prev()">&lt;</button>
+    <input type="date" min="2020-02-26" id="date" onchange="dateUpdated()">
+    <button id="next" onclick="next()">&gt;</button>
+    <div id="stats"></div>
+</body>
+</html>
