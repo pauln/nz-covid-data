@@ -2,8 +2,9 @@ name: Update Data
 
 on:
   push:
-    paths:
-      - 'cases/covid-cases.csv'
+    paths-ignore:
+      - 'docs/**'
+      - '.github/**'
   workflow_dispatch: # on button click
 
 jobs:
