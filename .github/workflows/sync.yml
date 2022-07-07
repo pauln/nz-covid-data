@@ -18,6 +18,7 @@ jobs:
           base: main
           head: main
           retries: 1
+          ignore_fail: true
 
     outputs:
       changes_applied: ${{ steps.sync.outputs.changes_applied }}
