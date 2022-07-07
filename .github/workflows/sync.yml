@@ -11,12 +11,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: pauln/fork-sync@v1.7.0
+      - id: sync
+        uses: pauln/fork-sync@v1.7.0
         with:
           owner: minhealthnz
           base: main
           head: main
           retries: 1
+
+    outputs:
+      changes_applied: ${{ steps.sync.outputs.changes_applied }}
 
   auto-update:
     runs-on: ubuntu-latest
