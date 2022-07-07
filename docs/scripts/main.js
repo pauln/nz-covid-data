@@ -11,13 +11,11 @@ const sortedRegions = [
     'Taranaki',
     'Tairawhiti',
     'Wairarapa',
-    'Capital and Coast',
-    'Hutt Valley',
+    'Capital and Coast/Hutt',
     'Nelson Marlborough',
-    'Canterbury',
+    'Canterbury/West Coast',
     'South Canterbury',
     'Southern',
-    'West Coast',
     'Unknown',
 ];
 
@@ -54,6 +52,14 @@ function dateUpdated() {
                             if (data.hasOwnProperty('Waitemata')) {
                                 count += data['Waitemata'];
                             }
+                        
+                        case 'Capital and Coast/Hutt':
+                            label = 'Capital and Coast &amp; Hutt Valley';
+                            break;
+
+                        case 'Canterbury/West Coast':
+                            label = 'Canterbury &amp; West Coast';
+                            break;
                     }
                     if (data.hasOwnProperty(region)) {
                         regions.push(`${label} (${count})`);
