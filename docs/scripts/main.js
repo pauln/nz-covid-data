@@ -52,6 +52,7 @@ function dateUpdated() {
                             if (data.hasOwnProperty('Waitemata')) {
                                 count += data['Waitemata'];
                             }
+                            break;
                         
                         case 'Capital and Coast/Hutt':
                             label = 'Capital and Coast &amp; Hutt Valley';
