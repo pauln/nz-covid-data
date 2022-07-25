@@ -11,7 +11,7 @@ const sortedRegions = [
     'Taranaki',
     'Tairawhiti',
     'Wairarapa',
-    'Capital and Coast/Hutt',
+    'Capital & Coast/Hutt',
     'Nelson Marlborough',
     'Canterbury/West Coast',
     'South Canterbury',
@@ -54,7 +54,7 @@ function dateUpdated() {
                             }
                             break;
                         
-                        case 'Capital and Coast/Hutt':
+                        case 'Capital & Coast/Hutt':
                             label = 'Capital and Coast &amp; Hutt Valley';
                             break;
 
