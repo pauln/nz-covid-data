@@ -1,16 +1,16 @@
 sa2_code,sa2_name,dhb,dose1_cnt,dose2_cnt,pop_cnt,dose1_uptake,dose2_uptake
-Unknown,NA,NA,596,246,1979,301,124
-100100,North Cape,Northland,44,16,145,303,110
+Unknown,NA,NA,583,240,1947,299,123
+100100,North Cape,Northland,44,16,146,301,110
 100200,Rangaunu Harbour,Northland,34,13,190,179,68
 100400,Karikari Peninsula,Northland,20,5,88,227,57
-100500,Tangonge,Northland,19,Masked,100,190,<50
+100500,Tangonge,Northland,19,Masked,101,188,<50
 100600,Ahipara,Northland,35,9,104,337,87
 100700,Kaitaia East,Northland,84,23,297,283,77
 100800,Kaitaia West,Northland,81,28,372,218,75
-100900,Rangitihi,Northland,8,Masked,56,143,54
-101000,Oruru-Parapara,Northland,14,6,Masked,226,97
+100900,Rangitihi,Northland,8,Masked,55,145,55
+101000,Oruru-Parapara,Northland,14,6,63,222,95
 101100,Taumarumaru,Northland,34,13,138,246,94
-101200,Herekino-Takahue,Northland,25,Masked,81,309,<50
+101200,Herekino-Takahue,Northland,25,Masked,82,305,<50
 101300,Peria,Northland,16,6,89,180,67
 101400,Taemaro-Oruaiti,Northland,19,Masked,68,279,<50
 101500,Whakapaku,Northland,18,Masked,61,295,66
@@ -18,94 +18,94 @@ Unknown,NA,NA,596,246,1979,301,124
 101700,Kohukohu-Broadwood,Northland,12,Masked,50,240,<50
 101800,Whakarara,Northland,33,19,67,493,284
 101900,Kaeo,Northland,37,17,111,333,153
-102000,Omahuta Forest-Horeke,Northland,13,9,124,105,73
-102100,Hokianga South,Northland,26,13,106,245,123
+102000,Omahuta Forest-Horeke,Northland,14,9,125,112,72
+102100,Hokianga South,Northland,28,13,105,267,124
 102200,Lake Manuwai-Kapiro,Northland,18,Masked,63,286,<50
-102300,?kaihau,Northland,13,Masked,58,224,52
-102400,Rangitane-Purerua,Northland,13,5,61,213,82
+102300,?kaihau,Northland,13,Masked,59,220,51
+102400,Rangitane-Purerua,Northland,13,5,62,210,81
 102500,Waipapa,Northland,Masked,Masked,Masked,Masked,Masked
 102600,Puketotara,Northland,23,Masked,51,451,<50
 102700,Waim? Forest,Northland,20,7,133,150,53
 102800,Riverview,Northland,22,Masked,51,431,78
 102900,Waipoua Forest,Northland,16,5,95,168,53
-103000,Kerikeri Central,Northland,28,9,104,269,87
+103000,Kerikeri Central,Northland,28,9,103,272,87
 103100,Kerikeri South,Northland,20,5,53,377,94
 103200,?haeawai-Waimate North,Northland,13,7,74,176,95
 103300,Puketona-Waitangi,Northland,22,Masked,43,512,70
-103400,Ngapuhi,Northland,34,8,171,199,<50
-103500,Kaikohe,Northland,148,48,627,236,77
+103400,Ngapuhi,Northland,33,7,171,193,<50
+103500,Kaikohe,Northland,148,48,624,237,77
 103600,Pakaraka,Northland,Masked,Masked,Masked,Masked,Masked
 103700,Haruru,Northland,28,6,59,475,102
 103800,Russell,Northland,Masked,Masked,Masked,Masked,Masked
-103900,Paihia,Northland,16,5,73,219,68
+103900,Paihia,Northland,16,5,74,216,68
 104000,Mataraua Forest,Northland,11,6,58,190,103
 104100,Matawaia-Taumarere,Northland,41,7,163,252,<50
 104200,Russell Peninsula,Northland,Masked,Masked,Masked,Masked,Masked
 104300,Opua (Far North District),Northland,Masked,Masked,Masked,Masked,Masked
 104400,Russell Forest-Rawhiti,Northland,11,Masked,72,153,<50
 104500,Moerewa,Northland,32,8,229,140,<50
-104600,Kawakawa,Northland,34,9,153,222,59
+104600,Kawakawa,Northland,34,9,152,224,59
 104700,Maromaku,Northland,22,Masked,75,293,53
-104800,Mangakahia-H?kerenui,Northland,27,5,128,211,<50
-104900,Whangaruru,Northland,44,8,137,321,58
-105100,Matarau,Northland,27,11,87,310,126
+104800,Mangakahia-H?kerenui,Northland,28,5,129,217,<50
+104900,Whangaruru,Northland,42,8,136,309,59
+105100,Matarau,Northland,27,11,86,314,128
 105200,Hikurangi,Northland,43,17,133,323,128
 105300,Kauri,Northland,16,5,58,276,86
 105400,Maungatapere,Northland,35,15,99,354,152
-105500,Kamo West,Northland,42,17,90,467,189
+105500,Kamo West,Northland,41,16,89,461,180
 105600,Matapouri-Tutukaka,Northland,Masked,Masked,Masked,Masked,Masked
 105700,Kiripaka,Northland,Masked,Masked,Masked,Masked,Masked
-105800,Kamo East,Northland,74,20,250,296,80
-105900,Granfield Reserve,Northland,28,9,87,322,103
+105800,Kamo East,Northland,74,20,249,297,80
+105900,Granfield Reserve,Northland,28,9,86,326,105
 106000,Kamo Central,Northland,36,15,93,387,161
-106100,Whau Valley,Northland,43,11,131,328,84
+106100,Whau Valley,Northland,43,11,132,326,83
 106200,Tikipunga North,Northland,74,16,251,295,64
 106300,Pukenui,Northland,27,7,56,482,125
-106400,Otangarei,Northland,46,9,287,160,<50
-106500,Tikipunga South,Northland,98,21,285,344,74
-106600,Kensington (Whangarei District),Northland,21,10,115,183,87
+106400,Otangarei,Northland,46,9,289,159,<50
+106500,Tikipunga South,Northland,98,22,287,341,77
+106600,Kensington (Whangarei District),Northland,21,10,114,184,88
 106700,Abbey Caves-Glenbervie,Northland,Masked,Masked,Masked,Masked,Masked
-106800,Mairtown,Northland,35,9,Masked,380,98
-106900,Maunu-Horahora,Northland,43,15,97,443,155
-107000,Woodhill-Vinetown,Northland,31,11,Masked,277,98
+106800,Mairtown,Northland,36,9,Masked,383,96
+106900,Maunu-Horahora,Northland,44,16,98,449,163
+107000,Woodhill-Vinetown,Northland,31,11,Masked,279,99
 107100,Whang?rei Central,Northland,Masked,Masked,Masked,Masked,Masked
 107200,Riverside,Northland,30,Masked,86,349,<50
-107300,Raumanga,Northland,91,23,336,271,68
+107300,Raumanga,Northland,92,23,340,271,68
 107400,Tarewa,Northland,60,19,227,264,84
-107500,Morningside (Whangarei District),Northland,47,18,131,359,137
-107600,Ngunguru,Northland,15,5,44,341,114
+107500,Morningside (Whangarei District),Northland,47,18,129,364,140
+107600,Ngunguru,Northland,15,5,43,349,116
 107700,Otaika-Portland,Northland,19,10,58,328,172
 107800,Oakleigh-Mangapai,Northland,13,6,54,241,111
 107900,Port-Limeburners,Northland,Masked,Masked,Masked,Masked,Masked
-108000,Pataua,Northland,8,Masked,42,190,95
-108100,Onerahi Park,Northland,19,9,48,396,188
-108200,Sherwood Rise,Northland,42,15,160,262,94
+108000,Pataua,Northland,8,Masked,43,186,93
+108100,Onerahi Park,Northland,19,9,49,388,184
+108200,Sherwood Rise,Northland,42,15,159,264,94
 108300,Onerahi,Northland,38,17,152,250,112
 108500,Parua Bay,Northland,26,7,58,448,121
-108600,Bream Bay,Northland,19,8,70,271,114
-108700,Marsden Bay,Northland,21,10,80,262,125
+108600,Bream Bay,Northland,18,8,68,265,118
+108700,Marsden Bay,Northland,21,10,81,259,123
 108800,Ruak?k?,Northland,43,9,140,307,64
 108900,Bream Head,Northland,Masked,Masked,Masked,Masked,Masked
 109000,Waipu,Northland,14,5,55,255,91
-109100,Kaipara Coastal,Northland,41,12,176,233,68
-109200,Maungaru,Northland,21,Masked,60,350,67
+109100,Kaipara Coastal,Northland,41,12,175,234,69
+109200,Maungaru,Northland,21,Masked,61,344,66
 109300,Dargaville,Northland,45,21,273,165,77
-109400,Ruawai-Matakohe,Northland,23,8,108,213,74
+109400,Ruawai-Matakohe,Northland,24,8,108,222,74
 109500,Otamatea (Kaipara District),Northland,8,Masked,42,190,<50
 109600,Maungaturoto,Northland,18,Masked,53,340,75
-109700,Kaiwaka,Northland,23,Masked,90,256,<50
+109700,Kaiwaka,Northland,23,Masked,92,250,<50
 109800,Mangawhai Rural,Northland,11,6,Masked,180,98
-109900,Mangawhai Heads,Northland,15,6,49,306,122
+109900,Mangawhai Heads,Northland,16,6,50,320,120
 110100,Mangawhai,Northland,Masked,Masked,Masked,Masked,Masked
 110200,Okahukura Peninsula,Waitemata,8,5,47,170,106
 110400,Cape Rodney,Waitemata,28,20,68,412,294
 110500,Wellsford,Waitemata,12,6,64,188,94
-110700,South Head,Waitemata,20,Masked,83,241,<50
+110700,South Head,Waitemata,21,Masked,85,247,<50
 110800,Kaipara Hills,Waitemata,15,5,56,268,89
 110900,Dome Valley-Matakana,Waitemata,Masked,Masked,Masked,Masked,Masked
 111100,Warkworth West,Waitemata,Masked,Masked,Masked,Masked,Masked
 111200,Puhoi Valley,Waitemata,Masked,Masked,Masked,Masked,Masked
-111300,Warkworth East,Waitemata,10,6,44,227,136
+111300,Warkworth East,Waitemata,10,6,43,233,140
 111400,Sandspit,Waitemata,Masked,Masked,Masked,Masked,Masked
 111500,Tawharanui Peninsula,Waitemata,Masked,Masked,Masked,Masked,Masked
 111600,Te Kuru,Waitemata,Masked,Masked,Masked,Masked,Masked
@@ -138,8 +138,8 @@ Unknown,NA,NA,596,246,1979,301,124
 114600,Stanmore Bay West,Waitemata,27,11,50,540,220
 114700,Kumeu Rural West,Waitemata,Masked,Masked,Masked,Masked,Masked
 114800,Okura Bush,Waitemata,Masked,Masked,Masked,Masked,Masked
-114900,Whangapar?oa Central,Waitemata,24,8,60,400,133
-115000,Kumeu-Huapai,Waitemata,48,20,83,578,241
+114900,Whangapar?oa Central,Waitemata,23,8,60,383,133
+115000,Kumeu-Huapai,Waitemata,49,20,84,583,238
 115100,Stanmore Bay East,Waitemata,19,5,42,452,119
 115200,Manly West,Waitemata,Masked,Masked,Masked,Masked,Masked
 115300,Muriwai Valley-Bethells Beach,Waitemata,Masked,Masked,Masked,Masked,Masked
@@ -148,7 +148,7 @@ Unknown,NA,NA,596,246,1979,301,124
 115600,Dairy Flat South,Waitemata,Masked,Masked,Masked,Masked,Masked
 115700,Gulf Harbour North,Waitemata,Masked,Masked,Masked,Masked,Masked
 115800,Manly East,Waitemata,30,14,55,545,255
-115900,Riverhead,Waitemata,25,13,48,521,271
+115900,Riverhead,Waitemata,25,14,48,521,292
 116000,Army Bay,Waitemata,Masked,Masked,Masked,Masked,Masked
 116100,Kumeu Rural East,Waitemata,Masked,Masked,Masked,Masked,Masked
 116200,Gulf Harbour South,Waitemata,Masked,Masked,Masked,Masked,Masked
@@ -159,7 +159,7 @@ Unknown,NA,NA,596,246,1979,301,124
 116700,Albany Heights,Waitemata,Masked,Masked,Masked,Masked,Masked
 116800,Awaruku,Waitemata,Masked,Masked,Masked,Masked,Masked
 116900,Fairview Heights,Waitemata,Masked,Masked,Masked,Masked,Masked
-117000,Whenuapai,Waitemata,39,25,80,488,312
+117000,Whenuapai,Waitemata,40,25,81,494,309
 117100,Waitakere Ranges North,Waitemata,Masked,Masked,Masked,Masked,Masked
 117200,Torbay,Waitemata,Masked,Masked,Masked,Masked,Masked
 117300,Albany Central,Waitemata,Masked,Masked,Masked,Masked,Masked
@@ -190,36 +190,36 @@ Unknown,NA,NA,596,246,1979,301,124
 120000,Murrays Bay East,Waitemata,Masked,Masked,Masked,Masked,Masked
 120100,Birdwood West,Waitemata,Masked,Masked,Masked,Masked,Masked
 120200,Hobsonville Point,Waitemata,31,19,46,674,413
-120300,West Harbour Clearwater Cove,Waitemata,24,15,40,600,375
+120300,West Harbour Clearwater Cove,Waitemata,Masked,Masked,Masked,Masked,Masked
 120400,Unsworth Heights East,Waitemata,Masked,Masked,Masked,Masked,Masked
 120500,Mairangi Bay North,Waitemata,Masked,Masked,Masked,Masked,Masked
-120600,Massey Central,Waitemata,26,12,95,274,126
+120600,Massey Central,Waitemata,26,12,96,271,125
 120700,West Harbour Luckens Point,Waitemata,Masked,Masked,Masked,Masked,Masked
 120800,Mairangi Bay South,Waitemata,Masked,Masked,Masked,Masked,Masked
-120900,Massey Royal Road West,Waitemata,27,11,86,314,128
-121000,Bayview East,Waitemata,22,8,40,550,200
-121100,Swanson Rural,Waitemata,17,8,48,354,167
+120900,Massey Royal Road West,Waitemata,25,10,84,298,119
+121000,Bayview East,Waitemata,22,8,41,537,195
+121100,Swanson Rural,Waitemata,17,9,48,354,188
 121200,Sunnynook South,Waitemata,Masked,Masked,Masked,Masked,Masked
 121300,Sunnynook North,Waitemata,Masked,Masked,Masked,Masked,Masked
 121400,Bayview West,Waitemata,Masked,Masked,Masked,Masked,Masked
 121500,Totara Vale North,Waitemata,Masked,Masked,Masked,Masked,Masked
-121600,Royal Heights North,Waitemata,35,19,75,467,253
+121600,Royal Heights North,Waitemata,35,19,76,461,250
 121700,Massey West,Waitemata,16,6,43,372,140
 121800,Beach Haven West,Waitemata,23,8,46,500,174
 121900,Totara Vale South,Waitemata,Masked,Masked,Masked,Masked,Masked
-122000,Swanson,Waitemata,31,13,74,419,176
+122000,Swanson,Waitemata,30,12,72,417,167
 122100,Bayview South,Waitemata,Masked,Masked,Masked,Masked,Masked
 122200,Campbells Bay,Waitemata,Masked,Masked,Masked,Masked,Masked
-122300,Royal Heights South,Waitemata,32,9,Masked,340,96
-122400,Beach Haven East,Waitemata,38,13,137,277,95
-122500,Massey East,Waitemata,29,15,108,269,139
+122300,Royal Heights South,Waitemata,32,9,Masked,344,97
+122400,Beach Haven East,Waitemata,37,13,Masked,274,96
+122500,Massey East,Waitemata,28,15,106,264,142
 122600,Forrest Hill North,Waitemata,Masked,Masked,Masked,Masked,Masked
 122700,Glenfield North,Waitemata,Masked,Masked,Masked,Masked,Masked
-122800,Birkdale North,Waitemata,46,17,99,465,172
+122800,Birkdale North,Waitemata,47,17,100,470,170
 122900,Massey South,Waitemata,50,19,146,342,130
-123000,R?nui North,Waitemata,56,22,155,361,142
+123000,R?nui North,Waitemata,56,24,154,364,156
 123100,Glenfield West,Waitemata,Masked,Masked,Masked,Masked,Masked
-123200,Te Atat? Peninsula North West,Waitemata,45,17,87,517,195
+123200,Te Atat? Peninsula North West,Waitemata,44,17,86,512,198
 123300,Glenfield South West,Waitemata,Masked,Masked,Masked,Masked,Masked
 123400,Forrest Hill West,Waitemata,Masked,Masked,Masked,Masked,Masked
 123500,Wairau Valley,Waitemata,Masked,Masked,Masked,Masked,Masked
@@ -231,13 +231,13 @@ Unknown,NA,NA,596,246,1979,301,124
 124100,Piha,Waitemata,Masked,Masked,Masked,Masked,Masked
 124200,R?nui South West,Waitemata,21,6,84,250,71
 124300,Henderson Larnoch,Waitemata,54,18,144,375,125
-124400,Birkdale South,Waitemata,36,22,70,514,314
-124500,Te Atat? Peninsula Central,Waitemata,45,20,136,331,147
+124400,Birkdale South,Waitemata,36,22,71,507,310
+124500,Te Atat? Peninsula Central,Waitemata,45,20,137,328,146
 124600,Glenfield East,Waitemata,Masked,Masked,Masked,Masked,Masked
 124700,Henderson Valley,Waitemata,Masked,Masked,Masked,Masked,Masked
 124800,Te Atat? Peninsula West,Waitemata,52,20,111,468,180
 124900,Henderson Lincoln West,Waitemata,23,5,92,250,54
-125000,R?nui South East,Waitemata,23,8,66,348,121
+125000,R?nui South East,Waitemata,24,8,67,358,119
 125100,Henderson Lincoln East,Waitemata,Masked,Masked,Masked,Masked,Masked
 125200,Birkenhead West,Waitemata,Masked,Masked,Masked,Masked,Masked
 125300,Te Atat? Peninsula East,Waitemata,35,13,63,556,206
@@ -254,10 +254,10 @@ Unknown,NA,NA,596,246,1979,301,124
 126400,Te Atat? South-Edmonton,Waitemata,43,15,98,439,153
 126500,Birkenhead North,Waitemata,Masked,Masked,Masked,Masked,Masked
 126600,Takapuna West,Waitemata,Masked,Masked,Masked,Masked,Masked
-126700,Henderson North,Waitemata,31,8,98,316,82
+126700,Henderson North,Waitemata,31,8,97,320,82
 126800,Takapuna Central,Waitemata,Masked,Masked,Masked,Masked,Masked
 126900,Western Heights (Auckland),Waitemata,38,14,63,603,222
-127000,Te Atat? South-Central,Waitemata,27,15,66,409,227
+127000,Te Atat? South-Central,Waitemata,29,15,67,433,224
 127100,Northcote Central (Auckland),Waitemata,Masked,Masked,Masked,Masked,Masked
 127200,Akoranga,Waitemata,Masked,Masked,Masked,Masked,Masked
 127300,Northcote South (Auckland),Waitemata,Masked,Masked,Masked,Masked,Masked
@@ -270,29 +270,29 @@ Unknown,NA,NA,596,246,1979,301,124
 128000,Waitakere Ranges South,Waitemata,Masked,Masked,Masked,Masked,Masked
 128100,Northcote Tuff Crater,Waitemata,Masked,Masked,Masked,Masked,Masked
 128200,Northcote Point (Auckland),Waitemata,Masked,Masked,Masked,Masked,Masked
-128300,McLaren Park,Waitemata,48,21,110,436,191
-128400,Henderson East,Waitemata,20,10,68,294,147
-128500,Te Atat? South-McLeod South,Waitemata,36,10,86,419,116
+128300,McLaren Park,Waitemata,48,22,109,440,202
+128400,Henderson East,Waitemata,19,10,67,284,149
+128500,Te Atat? South-McLeod South,Waitemata,36,10,85,424,118
 128600,Takapuna South,Waitemata,Masked,Masked,Masked,Masked,Masked
 128800,Hauraki,Waitemata,Masked,Masked,Masked,Masked,Masked
-128900,Glendene North,Waitemata,39,19,96,406,198
-129000,Sunnyvale West-Parrs Park,Waitemata,39,19,89,438,213
+128900,Glendene North,Waitemata,38,19,96,396,198
+129000,Sunnyvale West-Parrs Park,Waitemata,39,19,88,443,216
 129100,Sunnyvale East,Waitemata,48,20,126,381,159
 129200,Point Chevalier West,Auckland,Masked,Masked,Masked,Masked,Masked
 129300,Belmont (Auckland),Waitemata,Masked,Masked,Masked,Masked,Masked
 129400,Bayswater,Waitemata,Masked,Masked,Masked,Masked,Masked
-129500,Glendene South,Waitemata,21,10,48,438,208
-129600,Glen Eden West,Waitemata,45,20,114,395,175
+129500,Glendene South,Waitemata,21,12,48,438,250
+129600,Glen Eden West,Waitemata,45,21,113,398,186
 129700,Herne Bay,Auckland,Masked,Masked,Masked,Masked,Masked
 129800,Westmere North,Auckland,Masked,Masked,Masked,Masked,Masked
-129900,Point Chevalier East,Auckland,27,20,42,643,476
+129900,Point Chevalier East,Auckland,28,21,43,651,488
 130000,Oratia,Waitemata,Masked,Masked,Masked,Masked,Masked
-130100,Glen Eden Rosier,Waitemata,45,23,86,523,267
+130100,Glen Eden Rosier,Waitemata,45,24,86,523,279
 130200,Saint Marys Bay,Auckland,Masked,Masked,Masked,Masked,Masked
 130300,Westmere South-Western Springs,Auckland,Masked,Masked,Masked,Masked,Masked
 130400,Ponsonby West,Auckland,Masked,Masked,Masked,Masked,Masked
 130500,Kelston North,Waitemata,32,13,69,464,188
-130600,Avondale Rosebank,Auckland,32,18,80,400,225
+130600,Avondale Rosebank,Auckland,33,19,82,402,232
 130700,Narrow Neck,Waitemata,Masked,Masked,Masked,Masked,Masked
 130800,Glen Eden North,Waitemata,27,12,54,500,222
 130900,Glen Eden Woodglen,Waitemata,48,20,95,505,211
@@ -303,7 +303,7 @@ Unknown,NA,NA,596,246,1979,301,124
 131400,Stanley Point,Waitemata,Masked,Masked,Masked,Masked,Masked
 131500,Glen Eden Central,Waitemata,36,17,62,581,274
 131600,Grey Lynn North,Auckland,Masked,Masked,Masked,Masked,Masked
-131700,Avondale West (Auckland),Auckland,25,14,75,333,187
+131700,Avondale West (Auckland),Auckland,25,14,76,329,184
 131800,Freemans Bay,Auckland,Masked,Masked,Masked,Masked,Masked
 131900,Mount Albert West,Auckland,Masked,Masked,Masked,Masked,Masked
 132000,Avondale North (Auckland),Auckland,27,12,56,482,214
@@ -335,13 +335,13 @@ Unknown,NA,NA,596,246,1979,301,124
 134600,Waima-Woodlands Park,Waitemata,Masked,Masked,Masked,Masked,Masked
 134700,Kaurilands,Waitemata,23,14,41,561,341
 134900,New Lynn Seabrook,Waitemata,Masked,Masked,Masked,Masked,Masked
-135000,Avondale South (Auckland),Auckland,27,14,50,540,280
+135000,Avondale South (Auckland),Auckland,27,14,48,562,292
 135100,Symonds Street North West,Auckland,Masked,Masked,Masked,Masked,Masked
 135200,Mount Albert South,Auckland,Masked,Masked,Masked,Masked,Masked
 135300,Symonds Street West,Auckland,Masked,Masked,Masked,Masked,Masked
 135400,West Lynn,Waitemata,Masked,Masked,Masked,Masked,Masked
 135500,?wairaka West,Auckland,Masked,Masked,Masked,Masked,Masked
-135600,New Lynn Central South,Waitemata,20,8,40,500,200
+135600,New Lynn Central South,Waitemata,21,8,41,512,195
 135700,The Strand,Auckland,Masked,Masked,Masked,Masked,Masked
 135800,St Lukes,Auckland,Masked,Masked,Masked,Masked,Masked
 135900,Symonds Street East,Auckland,Masked,Masked,Masked,Masked,Masked
@@ -385,13 +385,13 @@ Unknown,NA,NA,596,246,1979,301,124
 139800,Mount Roskill White Swan,Auckland,Masked,Masked,Masked,Masked,Masked
 139900,Mount Eden South,Auckland,Masked,Masked,Masked,Masked,Masked
 140000,Remuera Waitaramoa,Auckland,Masked,Masked,Masked,Masked,Masked
-140100,Orakei East,Auckland,55,32,114,482,281
+140100,Orakei East,Auckland,56,32,115,487,278
 140200,Epsom Central-North,Auckland,Masked,Masked,Masked,Masked,Masked
 140300,Mount St John,Auckland,Masked,Masked,Masked,Masked,Masked
 140400,Mount Roskill Central North,Auckland,Masked,Masked,Masked,Masked,Masked
 140500,Remuera North,Auckland,Masked,Masked,Masked,Masked,Masked
 140600,Three Kings West,Auckland,Masked,Masked,Masked,Masked,Masked
-140700,Mount Roskill Central South,Auckland,13,Masked,Masked,317,98
+140700,Mount Roskill Central South,Auckland,14,Masked,Masked,341,98
 140800,Epsom Central-South,Auckland,Masked,Masked,Masked,Masked,Masked
 140900,Lynfield South,Auckland,Masked,Masked,Masked,Masked,Masked
 141000,Remuera South,Auckland,Masked,Masked,Masked,Masked,Masked
@@ -406,7 +406,7 @@ Unknown,NA,NA,596,246,1979,301,124
 142000,Hillsborough North (Auckland),Auckland,Masked,Masked,Masked,Masked,Masked
 142100,Hillsborough West (Auckland),Auckland,Masked,Masked,Masked,Masked,Masked
 142200,Greenlane North,Auckland,Masked,Masked,Masked,Masked,Masked
-142300,Waikowhai North,Auckland,17,6,50,340,120
+142300,Waikowhai North,Auckland,16,5,49,327,102
 142400,Remuera East,Auckland,Masked,Masked,Masked,Masked,Masked
 142500,Waikowhai South,Auckland,Masked,Masked,Masked,Masked,Masked
 142600,Royal Oak West (Auckland),Auckland,Masked,Masked,Masked,Masked,Masked
@@ -430,7 +430,7 @@ Unknown,NA,NA,596,246,1979,301,124
 144400,Ellerslie East,Auckland,Masked,Masked,Masked,Masked,Masked
 144500,Saint Johns East,Auckland,Masked,Masked,Masked,Masked,Masked
 144600,Oneroa West,Auckland,Masked,Masked,Masked,Masked,Masked
-144700,Glen Innes West,Auckland,63,35,153,412,229
+144700,Glen Innes West,Auckland,63,35,151,417,232
 144800,Ellerslie South,Auckland,Masked,Masked,Masked,Masked,Masked
 144900,Stonefields West,Auckland,Masked,Masked,Masked,Masked,Masked
 145000,Onehunga Central,Auckland,Masked,Masked,Masked,Masked,Masked
@@ -441,21 +441,21 @@ Unknown,NA,NA,596,246,1979,301,124
 145500,Onehunga-Te Papapa Industrial,Auckland,Masked,Masked,Masked,Masked,Masked
 145600,Te Papapa,Auckland,24,9,44,545,205
 145700,Stonefields East,Auckland,Masked,Masked,Masked,Masked,Masked
-145800,Glen Innes East-Wai O Taiki Bay,Auckland,51,31,136,375,228
+145800,Glen Innes East-Wai O Taiki Bay,Auckland,51,31,138,370,225
 145900,Penrose,Auckland,Masked,Masked,Masked,Masked,Masked
 146000,Mount Wellington North East,Auckland,Masked,Masked,Masked,Masked,Masked
-146100,M?ngere Bridge Ambury,Counties Manukau,42,27,81,519,333
+146100,M?ngere Bridge Ambury,Counties Manukau,44,27,83,530,325
 146200,Mount Wellington Ferndale,Auckland,22,9,57,386,158
-146300,Point England,Auckland,55,29,203,271,143
+146300,Point England,Auckland,56,29,203,276,143
 146400,Bucklands Beach North,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 146500,Mount Wellington East,Auckland,Masked,Masked,Masked,Masked,Masked
-146600,Mount Wellington West,Auckland,29,10,51,569,196
+146600,Mount Wellington West,Auckland,30,10,52,577,192
 146700,Panmure West,Auckland,Masked,Masked,Masked,Masked,Masked
-146800,M?ngere Bridge,Counties Manukau,42,16,78,538,205
+146800,M?ngere Bridge,Counties Manukau,42,17,78,538,218
 146900,Oneroa East-Palm Beach,Auckland,Masked,Masked,Masked,Masked,Masked
-147000,Tamaki,Auckland,46,16,143,322,112
+147000,Tamaki,Auckland,44,16,142,310,113
 147100,Panmure East,Auckland,18,9,58,310,155
-147200,Mount Wellington Central,Auckland,30,9,58,517,155
+147200,Mount Wellington Central,Auckland,29,9,57,509,158
 147400,Sylvia Park,Auckland,Masked,Masked,Masked,Masked,Masked
 147500,M?ngere Mountain View,Counties Manukau,50,25,116,431,216
 147600,Surfdale,Auckland,Masked,Masked,Masked,Masked,Masked
@@ -463,142 +463,142 @@ Unknown,NA,NA,596,246,1979,301,124
 147900,Auckland Airport,Counties Manukau,12,6,56,214,107
 148000,Eastern Beach,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 148100,Sunnyhills West-Pakuranga North,Counties Manukau,Masked,Masked,Masked,Masked,Masked
-148200,Favona North,Counties Manukau,24,Masked,77,312,52
+148200,Favona North,Counties Manukau,23,Masked,76,303,53
 148300,Bucklands Beach Central,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 148400,Farm Cove,Counties Manukau,Masked,Masked,Masked,Masked,Masked
-148500,M?ngere North,Counties Manukau,14,Masked,46,304,87
-148600,Favona West,Counties Manukau,31,13,86,360,151
+148500,M?ngere North,Counties Manukau,13,5,45,289,111
+148600,Favona West,Counties Manukau,31,13,87,356,149
 148700,Ostend,Auckland,Masked,Masked,Masked,Masked,Masked
 148800,Half Moon Bay North East,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 148900,M?ngere West,Counties Manukau,46,18,144,319,125
-149000,Pakuranga West,Counties Manukau,34,14,80,425,175
+149000,Pakuranga West,Counties Manukau,34,14,79,430,177
 149100,Mount Wellington South West,Auckland,22,5,64,344,78
 149200,Sunnyhills East,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 149300,Half Moon Bay South East,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 149400,Favona East,Counties Manukau,18,7,74,243,95
 149500,Mount Wellington South East,Auckland,40,20,94,426,213
 149700,Bucklands Beach South,Counties Manukau,Masked,Masked,Masked,Masked,Masked
-149800,Pakuranga Central,Counties Manukau,20,10,52,385,192
+149800,Pakuranga Central,Counties Manukau,21,10,56,375,179
 149900,?whitu,Counties Manukau,11,Masked,59,186,51
 150000,Harania North,Counties Manukau,30,8,114,263,70
 150100,?t?huhu Central,Auckland,Masked,Masked,Masked,Masked,Masked
-150200,M?ngere Central,Counties Manukau,33,12,91,363,132
+150200,M?ngere Central,Counties Manukau,32,12,91,352,132
 150300,?t?huhu North,Auckland,25,5,72,347,69
 150400,Howick West,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 150500,Pakuranga Heights North West,Counties Manukau,19,11,56,339,196
 150600,Mellons Bay,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 150700,Pakuranga Heights East,Counties Manukau,10,5,42,238,119
-150800,Sutton Park,Counties Manukau,41,18,97,423,186
-150900,?t?huhu East,Auckland,13,7,47,277,149
+150800,Sutton Park,Counties Manukau,40,18,97,412,186
+150900,?t?huhu East,Auckland,13,7,48,271,146
 151000,M?ngere South,Counties Manukau,24,11,76,316,145
 151100,Onetangi,Auckland,Masked,Masked,Masked,Masked,Masked
 151200,Harania South,Counties Manukau,30,7,90,333,78
 151300,Highland Park (Auckland),Counties Manukau,Masked,Masked,Masked,Masked,Masked
-151400,?t?huhu South West,Auckland,16,7,58,276,121
-151500,Pakuranga Heights South West,Counties Manukau,23,11,58,397,190
+151400,?t?huhu South West,Auckland,16,7,59,271,119
+151500,Pakuranga Heights South West,Counties Manukau,23,11,57,404,193
 151600,M?ngere Mascot,Counties Manukau,18,Masked,74,243,54
 151700,Waiheke East,Auckland,Masked,Masked,Masked,Masked,Masked
-151800,Massey Road West,Counties Manukau,25,11,74,338,149
-151900,?t?huhu South,Auckland,26,9,68,382,132
+151800,Massey Road West,Counties Manukau,26,11,75,347,147
+151900,?t?huhu South,Auckland,26,9,67,388,134
 152000,Howick Central,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 152100,Massey Road North,Counties Manukau,32,12,86,372,140
 152200,Botany Downs West,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 152300,East Tamaki,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 152400,Howick East,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 152500,Burswood,Counties Manukau,Masked,Masked,Masked,Masked,Masked
-152600,Massey Road South,Counties Manukau,13,Masked,55,236,55
+152600,Massey Road South,Counties Manukau,13,Masked,54,241,56
 152800,M?ngere South East,Counties Manukau,31,10,62,500,161
 152900,Botany Downs East,Counties Manukau,Masked,Masked,Masked,Masked,Masked
-153000,Grange,Counties Manukau,18,10,51,353,196
+153000,Grange,Counties Manukau,19,11,52,365,212
 153100,Golflands,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 153200,Aorere North,Counties Manukau,Masked,Masked,Masked,Masked,Masked
-153300,M?ngere East,Counties Manukau,23,8,67,343,119
+153300,M?ngere East,Counties Manukau,21,8,64,328,125
 153400,Cockle Bay,Counties Manukau,Masked,Masked,Masked,Masked,Masked
-153500,?tara West,Counties Manukau,47,14,157,299,89
+153500,?tara West,Counties Manukau,47,15,Masked,303,97
 153600,Aorere Central,Counties Manukau,21,10,59,356,169
 153700,Northpark North,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 153800,Somerville,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 153900,Northpark South,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 154000,Papatoetoe North,Counties Manukau,30,13,83,361,157
 154100,Dingwall,Counties Manukau,24,12,55,436,218
-154200,Aorere South,Counties Manukau,43,18,121,355,149
+154200,Aorere South,Counties Manukau,44,18,121,364,149
 154300,Shelly Park,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 154400,?tara Central,Counties Manukau,30,12,81,370,148
 154500,Huntington Park,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 154700,Botany North,Counties Manukau,Masked,Masked,Masked,Masked,Masked
-154800,Papatoetoe West,Counties Manukau,32,13,90,356,144
-154900,Papatoetoe Central,Counties Manukau,30,15,68,441,221
+154800,Papatoetoe West,Counties Manukau,32,13,91,352,143
+154900,Papatoetoe Central,Counties Manukau,30,15,69,435,217
 155000,Sunkist Bay,Counties Manukau,Masked,Masked,Masked,Masked,Masked
-155100,?tara East,Counties Manukau,29,10,139,209,72
+155100,?tara East,Counties Manukau,29,10,138,210,72
 155200,Redcastle,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 155300,Botany East,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 155400,Botany South,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 155500,Manukau Central,Counties Manukau,Masked,Masked,Masked,Masked,Masked
-155600,Papatoetoe East,Counties Manukau,17,6,70,243,86
+155600,Papatoetoe East,Counties Manukau,17,6,71,239,85
 155700,?tara South,Counties Manukau,46,18,126,365,143
-155800,Ferguson,Counties Manukau,37,7,158,234,<50
-155900,Papatoetoe South West,Counties Manukau,19,10,78,244,128
+155800,Ferguson,Counties Manukau,39,7,158,247,<50
+155900,Papatoetoe South West,Counties Manukau,18,9,77,234,117
 156100,Dannemora North,Counties Manukau,Masked,Masked,Masked,Masked,Masked
-156200,Papatoetoe South,Counties Manukau,21,12,43,488,279
+156200,Papatoetoe South,Counties Manukau,22,12,46,478,261
 156300,East Tamaki Heights,Counties Manukau,Masked,Masked,Masked,Masked,Masked
-156400,Te Puru,Counties Manukau,28,16,42,667,381
-156500,Puhinui North,Counties Manukau,19,6,47,404,128
+156400,Te Puru,Counties Manukau,30,18,45,667,400
+156500,Puhinui North,Counties Manukau,18,6,46,391,130
 156600,Dannemora South,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 156700,Puhinui South,Counties Manukau,Masked,Masked,Masked,Masked,Masked
-156800,Rongomai West,Counties Manukau,15,7,85,176,82
+156800,Rongomai West,Counties Manukau,17,8,87,195,92
 156900,Baverstock,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 157000,Puhinui East,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 157100,Turanga,Counties Manukau,Masked,Masked,Masked,Masked,Masked
-157200,Rongomai East,Counties Manukau,16,6,51,314,118
+157200,Rongomai East,Counties Manukau,17,7,52,327,135
 157300,Ormiston North,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 157400,Maraetai,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 157500,Chapel Downs,Counties Manukau,12,5,45,267,111
 157600,Wiri West,Counties Manukau,Masked,Masked,Masked,Masked,Masked
-157700,Clover Park North,Counties Manukau,57,17,159,358,107
+157700,Clover Park North,Counties Manukau,56,17,158,354,108
 157800,Mission Heights North,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 157900,Clover Park South,Counties Manukau,26,9,105,248,86
 158000,Donegal Park,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 158100,Ormiston South,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 158200,Mission Heights South,Counties Manukau,Masked,Masked,Masked,Masked,Masked
-158300,Hilltop (Auckland),Counties Manukau,10,5,47,213,106
-158400,Wiri East,Counties Manukau,65,20,Masked,311,96
-158500,Goodwood Heights,Counties Manukau,32,11,70,457,157
+158300,Hilltop (Auckland),Counties Manukau,10,5,46,217,109
+158400,Wiri East,Counties Manukau,66,20,211,313,95
+158500,Goodwood Heights,Counties Manukau,31,11,70,443,157
 158600,Ormiston East,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 158700,Clendon Park North,Counties Manukau,52,20,176,295,114
-158800,Burbank,Counties Manukau,52,11,211,246,52
+158800,Burbank,Counties Manukau,52,11,210,248,52
 158900,Tuscany Heights,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 159000,Totara Heights,Counties Manukau,17,9,54,315,167
-159100,Homai East,Counties Manukau,30,11,102,294,108
-159200,Homai West,Counties Manukau,61,19,241,253,79
-159300,The Gardens (Auckland),Counties Manukau,21,9,45,467,200
+159100,Homai East,Counties Manukau,30,11,103,291,107
+159200,Homai West,Counties Manukau,62,19,240,258,79
+159300,The Gardens (Auckland),Counties Manukau,21,9,44,477,205
 159400,Clarks Beach,Counties Manukau,Masked,Masked,Masked,Masked,Masked
-159500,Clendon Park West,Counties Manukau,33,16,153,216,105
-159600,Hillpark North,Counties Manukau,21,10,51,412,196
-159700,Clendon Park East,Counties Manukau,27,14,89,303,157
+159500,Clendon Park West,Counties Manukau,33,17,146,226,116
+159600,Hillpark North,Counties Manukau,21,10,50,420,200
+159700,Clendon Park East,Counties Manukau,27,14,88,307,159
 159800,Karaka Creek,Counties Manukau,Masked,Masked,Masked,Masked,Masked
-159900,Rowandale West,Counties Manukau,47,18,214,220,84
-160000,Rowandale East,Counties Manukau,74,21,224,330,94
-160100,Manurewa Central,Counties Manukau,30,11,Masked,265,97
-160200,Weymouth North,Counties Manukau,74,32,251,295,127
+159900,Rowandale West,Counties Manukau,47,18,211,223,85
+160000,Rowandale East,Counties Manukau,72,21,221,326,95
+160100,Manurewa Central,Counties Manukau,29,10,112,259,89
+160200,Weymouth North,Counties Manukau,74,31,247,300,126
 160300,Hillpark South,Counties Manukau,35,15,66,530,227
-160400,Alfriston,Counties Manukau,26,13,64,406,203
+160400,Alfriston,Counties Manukau,26,13,63,413,206
 160500,Weymouth East,Counties Manukau,51,14,179,285,78
-160600,Leabank,Counties Manukau,49,11,247,198,<50
-160700,Weymouth South,Counties Manukau,50,22,168,298,131
-160800,Manurewa East,Counties Manukau,34,8,132,258,61
-160900,Manurewa South,Counties Manukau,49,20,175,280,114
+160600,Leabank,Counties Manukau,50,11,246,203,<50
+160700,Weymouth South,Counties Manukau,50,21,167,299,126
+160800,Manurewa East,Counties Manukau,34,8,131,260,61
+160900,Manurewa South,Counties Manukau,51,21,182,280,115
 161000,Randwick Park East,Counties Manukau,25,10,69,362,145
-161100,Wattle Downs West,Counties Manukau,50,28,95,526,295
+161100,Wattle Downs West,Counties Manukau,50,28,94,532,298
 161200,Wattle Downs North,Counties Manukau,40,14,158,253,89
 161300,Randwick Park West,Counties Manukau,61,19,213,286,89
-161400,Kingseat-Karaka,Counties Manukau,23,10,70,329,143
-161500,Wattle Downs East,Counties Manukau,14,Masked,47,298,85
-161600,Takanini North,Counties Manukau,23,9,99,232,91
+161400,Kingseat-Karaka,Counties Manukau,23,10,69,333,145
+161500,Wattle Downs East,Counties Manukau,15,5,49,306,102
+161600,Takanini North,Counties Manukau,23,9,98,235,92
 161700,Takanini Industrial,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 161800,Conifer Grove West,Counties Manukau,Masked,Masked,Masked,Masked,Masked
-161900,Conifer Grove East,Counties Manukau,24,7,76,316,92
-162000,Takanini West,Counties Manukau,32,11,107,299,103
-162100,Takanini South,Counties Manukau,38,14,97,392,144
+161900,Conifer Grove East,Counties Manukau,24,7,75,320,93
+162000,Takanini West,Counties Manukau,32,11,105,305,105
+162100,Takanini South,Counties Manukau,37,14,96,385,146
 162200,Takanini Central,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 162300,Ardmore,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 162400,Glenbrook,Counties Manukau,Masked,Masked,Masked,Masked,Masked
@@ -607,22 +607,22 @@ Unknown,NA,NA,596,246,1979,301,124
 162700,Kawakawa Bay-Orere,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 162800,Papakura West,Counties Manukau,15,Masked,47,319,85
 162900,Clevedon,Counties Manukau,Masked,Masked,Masked,Masked,Masked
-163000,Papakura North,Counties Manukau,75,26,204,368,127
-163100,Pahurehure,Counties Manukau,27,17,66,409,258
-163200,Papakura Central,Counties Manukau,42,17,94,447,181
-163300,Papakura North East,Counties Manukau,43,9,132,326,68
+163000,Papakura North,Counties Manukau,75,26,206,364,126
+163100,Pahurehure,Counties Manukau,27,17,68,397,250
+163200,Papakura Central,Counties Manukau,41,17,93,441,183
+163300,Papakura North East,Counties Manukau,45,11,133,338,83
 163400,Karaka Lakes,Counties Manukau,Masked,Masked,Masked,Masked,Masked
-163500,Papakura Kelvin,Counties Manukau,111,36,357,311,101
-163600,Papakura Massey Park,Counties Manukau,56,18,155,361,116
-163700,Rosehill,Counties Manukau,46,13,166,277,78
+163500,Papakura Kelvin,Counties Manukau,110,35,Masked,308,98
+163600,Papakura Massey Park,Counties Manukau,59,20,158,373,127
+163700,Rosehill,Counties Manukau,46,13,165,279,79
 163800,Patumahoe,Counties Manukau,14,7,41,341,171
-163900,Papakura East,Counties Manukau,65,14,152,428,92
-164000,?paheke,Counties Manukau,40,19,107,374,178
+163900,Papakura East,Counties Manukau,66,15,Masked,431,98
+164000,?paheke,Counties Manukau,40,19,106,377,179
 164100,Papakura Industrial,Counties Manukau,Masked,Masked,Masked,Masked,Masked
-164200,Red Hill,Counties Manukau,62,22,162,383,136
-164300,Drury,Counties Manukau,26,6,66,394,91
-164400,Tamakae,Counties Manukau,45,26,93,484,280
-164500,Hamilton Estate,Counties Manukau,33,19,90,367,211
+164200,Red Hill,Counties Manukau,62,22,163,380,135
+164300,Drury,Counties Manukau,26,5,66,394,76
+164400,Tamakae,Counties Manukau,45,27,94,479,287
+164500,Hamilton Estate,Counties Manukau,33,19,89,371,213
 164600,Drury Rural,Counties Manukau,19,9,60,317,150
 164700,Waiuku Central,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 164800,Waiuku East,Counties Manukau,20,6,50,400,120
@@ -630,12 +630,12 @@ Unknown,NA,NA,596,246,1979,301,124
 165000,Puni,Counties Manukau,30,7,55,545,127
 165100,Ramarama,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 165200,Hunua,Counties Manukau,Masked,Masked,Masked,Masked,Masked
-165300,Pukekohe North West,Counties Manukau,66,17,223,296,76
+165300,Pukekohe North West,Counties Manukau,66,17,222,297,77
 165400,Anselmi Ridge,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 165500,Pukekohe West,Counties Manukau,85,26,289,294,90
 165600,Cape Hill,Counties Manukau,Masked,Masked,Masked,Masked,Masked
-165700,Rosa Birch Park,Counties Manukau,15,Masked,40,375,100
-165800,Rooseville Park,Counties Manukau,38,16,74,514,216
+165700,Rosa Birch Park,Counties Manukau,16,Masked,Masked,390,98
+165800,Rooseville Park,Counties Manukau,37,16,73,507,219
 165900,Cloverlea (Auckland),Counties Manukau,Masked,Masked,Masked,Masked,Masked
 166000,Pukekohe Central,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 166100,Pukekohe Hospital,Counties Manukau,Masked,Masked,Masked,Masked,Masked
@@ -643,10 +643,10 @@ Unknown,NA,NA,596,246,1979,301,124
 166300,Bombay Hills,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 166400,Ararimu,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 166500,Colville,Waikato,15,Masked,92,163,<50
-166700,Coromandel,Waikato,10,Masked,58,172,69
+166700,Coromandel,Waikato,9,Masked,57,158,53
 166900,Mercury Bay North,Waikato,Masked,Masked,Masked,Masked,Masked
 167000,Whitianga North,Waikato,Masked,Masked,Masked,Masked,Masked
-167100,Whitianga South,Waikato,25,5,85,294,59
+167100,Whitianga South,Waikato,26,6,87,299,69
 167200,Thames Coast,Waikato,Masked,Masked,Masked,Masked,Masked
 167300,Cooks Beach-Ferry Landing,Waikato,Masked,Masked,Masked,Masked,Masked
 167400,Mercury Bay South,Waikato,Masked,Masked,Masked,Masked,Masked
@@ -658,133 +658,133 @@ Unknown,NA,NA,596,246,1979,301,124
 168000,Totora-Kopu,Waikato,Masked,Masked,Masked,Masked,Masked
 168100,Tairua,Waikato,Masked,Masked,Masked,Masked,Masked
 168200,Pauanui,Waikato,Masked,Masked,Masked,Masked,Masked
-168300,Matatoki-Puriri,Waikato,Masked,Masked,Masked,Masked,Masked
+168300,Matatoki-Puriri,Waikato,18,12,44,409,273
 168400,Whangamat? Rural,Waikato,Masked,Masked,Masked,Masked,Masked
 168500,Whangamat?,Waikato,25,9,78,321,115
 168600,Miranda-P?korokoro,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 168700,Hauraki Plains North,Waikato,Masked,Masked,Masked,Masked,Masked
 168800,Hauraki Plains East,Waikato,Masked,Masked,Masked,Masked,Masked
 168900,Ngatea,Waikato,Masked,Masked,Masked,Masked,Masked
-169000,Hauraki Plains South,Waikato,12,Masked,58,207,69
+169000,Hauraki Plains South,Waikato,12,Masked,57,211,70
 169100,Paeroa Rural,Waikato,17,Masked,68,250,<50
-169200,Paeroa,Waikato,57,18,206,277,87
-169300,Waihi Rural,Waikato,15,5,53,283,94
+169200,Paeroa,Waikato,57,18,203,281,89
+169300,Waihi Rural,Waikato,15,5,Masked,294,98
 169400,Waihi North,Waikato,27,9,81,333,111
 169500,Waihi East,Waikato,Masked,Masked,Masked,Masked,Masked
-169600,Waihi South,Waikato,22,8,78,282,103
-169700,Aka Aka,Counties Manukau,29,14,50,580,280
+169600,Waihi South,Waikato,22,8,80,275,100
+169700,Aka Aka,Counties Manukau,30,14,51,588,275
 169800,Mangatangi,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 169900,Tuakau Rural,Counties Manukau,Masked,Masked,Masked,Masked,Masked
-170000,Tuakau North,Counties Manukau,50,18,149,336,121
-170100,Onewhero,Counties Manukau,19,7,45,422,156
+170000,Tuakau North,Counties Manukau,51,18,149,342,121
+170100,Onewhero,Counties Manukau,20,7,45,444,156
 170200,P?keno Rural,Counties Manukau,Masked,Masked,Masked,Masked,Masked
-170300,Tuakau South,Counties Manukau,40,7,111,360,63
+170300,Tuakau South,Counties Manukau,39,6,112,348,54
 170400,Port Waikato-Waikaretu,Counties Manukau,Masked,Masked,Masked,Masked,Masked
 170500,P?keno,Counties Manukau,41,20,92,446,217
 170600,Pukekawa,Counties Manukau,Masked,Masked,Masked,Masked,Masked
-170700,Maramarua,Waikato,25,11,87,287,126
-170800,Rangiriri,Waikato,9,Masked,43,209,93
+170700,Maramarua,Waikato,25,11,88,284,125
+170800,Rangiriri,Waikato,9,5,43,209,116
 170900,Te ?kau,Waikato,20,6,59,339,102
-171100,Te Kauwhata,Waikato,30,8,93,323,86
-171200,Huntly Rural,Waikato,35,7,100,350,70
+171100,Te Kauwhata,Waikato,29,8,92,315,87
+171200,Huntly Rural,Waikato,35,7,101,347,69
 171300,Waerenga,Waikato,Masked,Masked,Masked,Masked,Masked
-171400,Huntly West,Waikato,127,46,380,334,121
-171500,Huntly East,Waikato,115,53,315,365,168
+171400,Huntly West,Waikato,127,46,382,332,120
+171500,Huntly East,Waikato,117,54,316,370,171
 171600,Raglan,Waikato,25,11,Masked,221,97
 171700,Whitikahu,Waikato,21,Masked,45,467,<50
 171800,Te Uku,Waikato,16,Masked,70,229,<50
-171900,Taupiri-Lake Kainui,Waikato,49,13,98,500,133
-172000,Ng?ruaw?hia North,Waikato,65,25,199,327,126
-172100,Ng?ruaw?hia Central,Waikato,62,19,221,281,86
-172200,Ng?ruaw?hia South,Waikato,52,22,156,333,141
+171900,Taupiri-Lake Kainui,Waikato,49,13,97,505,134
+172000,Ng?ruaw?hia North,Waikato,66,26,198,333,131
+172100,Ng?ruaw?hia Central,Waikato,63,19,220,286,86
+172200,Ng?ruaw?hia South,Waikato,50,21,154,325,136
 172300,Kainui-Gordonton,Waikato,Masked,Masked,Masked,Masked,Masked
 172400,Te Kowhai,Waikato,17,6,42,405,143
 172500,Whatawhata West,Waikato,Masked,Masked,Masked,Masked,Masked
 172600,Horotiu,Waikato,Masked,Masked,Masked,Masked,Masked
 172700,Horsham Downs,Waikato,Masked,Masked,Masked,Masked,Masked
-172800,Whatawhata East,Waikato,29,8,Masked,354,98
+172800,Whatawhata East,Waikato,29,8,Masked,358,99
 172900,Rotokauri,Waikato,Masked,Masked,Masked,Masked,Masked
 173000,Hamilton Park,Waikato,Masked,Masked,Masked,Masked,Masked
 173100,Eureka-Tauwhare,Waikato,Masked,Masked,Masked,Masked,Masked
 173200,Tamahere North,Waikato,24,11,41,585,268
-173300,Pukemoremore,Waikato,28,9,72,389,125
+173300,Pukemoremore,Waikato,28,9,71,394,127
 173400,Tamahere South,Waikato,Masked,Masked,Masked,Masked,Masked
 173500,Tahuna-Mangateparu,Waikato,Masked,Masked,Masked,Masked,Masked
 173600,Mangaiti,Waikato,Masked,Masked,42,71,<50
 173700,Tatuanui,Waikato,Masked,Masked,Masked,Masked,Masked
 173800,Tahuroa,Waikato,Masked,Masked,Masked,Masked,Masked
-173900,Morrinsville East,Waikato,23,5,105,219,<50
-174000,Morrinsville West,Waikato,29,7,114,254,61
-174100,Te Aroha East,Waikato,21,7,90,233,78
+173900,Morrinsville East,Waikato,23,5,106,217,<50
+174000,Morrinsville West,Waikato,29,7,116,250,60
+174100,Te Aroha East,Waikato,21,7,91,231,77
 174200,Te Aroha West,Waikato,Masked,Masked,Masked,Masked,Masked
 174300,Waihou-Manawaru,Waikato,Masked,Masked,Masked,Masked,Masked
 174400,Waitoa-Ngarua,Waikato,Masked,Masked,Masked,Masked,Masked
 174500,Richmond Downs-Wardville,Waikato,Masked,Masked,Masked,Masked,Masked
-174600,Waharoa-Peria,Waikato,24,13,78,308,167
+174600,Waharoa-Peria,Waikato,24,14,78,308,179
 174700,Okauia,Waikato,Masked,Masked,Masked,Masked,Masked
 174800,Hinuera,Waikato,Masked,Masked,Masked,Masked,Masked
 174900,Matamata North,Waikato,23,7,81,284,86
 175000,Matamata South,Waikato,43,15,122,352,123
 175100,Te Poi,Waikato,Masked,Masked,Masked,Masked,Masked
 175200,Te Rapa North,Waikato,Masked,Masked,Masked,Masked,Masked
-175300,Flagstaff North,Waikato,32,14,62,516,226
+175300,Flagstaff North,Waikato,31,13,60,517,217
 175400,Rotokauri-Waiwhakareke,Waikato,Masked,Masked,Masked,Masked,Masked
 175500,Flagstaff South,Waikato,Masked,Masked,Masked,Masked,Masked
 175600,Rototuna North,Waikato,13,Masked,40,325,<50
 175700,Pukete West,Waikato,28,15,98,286,153
 175800,Flagstaff East,Waikato,27,14,67,403,209
-175900,Rototuna Central,Waikato,44,23,84,524,274
-176000,Pukete East,Waikato,24,12,65,369,185
-176100,Te Manatu,Waikato,32,10,90,356,111
-176200,Rototuna South,Waikato,39,19,66,591,288
+175900,Rototuna Central,Waikato,44,23,85,518,271
+176000,Pukete East,Waikato,23,12,64,359,188
+176100,Te Manatu,Waikato,32,10,91,352,110
+176200,Rototuna South,Waikato,39,19,65,600,292
 176300,Te Rapa South,Waikato,Masked,Masked,Masked,Masked,Masked
-176400,Saint Andrews West,Waikato,36,7,152,237,<50
-176500,Saint Andrews East,Waikato,22,9,58,379,155
-176600,Queenwood (Hamilton City),Waikato,17,7,49,347,143
-176700,St James,Waikato,16,7,42,381,167
-176800,Crawshaw,Waikato,62,14,296,209,<50
+176400,Saint Andrews West,Waikato,36,7,151,238,<50
+176500,Saint Andrews East,Waikato,23,9,59,390,153
+176600,Queenwood (Hamilton City),Waikato,17,7,50,340,140
+176700,St James,Waikato,16,7,41,390,171
+176800,Crawshaw,Waikato,62,14,294,211,<50
 176900,Huntington,Waikato,Masked,Masked,Masked,Masked,Masked
-177000,Western Heights (Hamilton City),Waikato,43,18,96,448,188
-177100,Nawton West,Waikato,48,19,171,281,111
-177200,Nawton East,Waikato,73,13,283,258,<50
-177300,Chartwell,Waikato,40,20,121,331,165
-177400,Forest Lake (Hamilton City),Waikato,48,12,112,429,107
+177000,Western Heights (Hamilton City),Waikato,44,18,97,454,186
+177100,Nawton West,Waikato,49,19,169,290,112
+177200,Nawton East,Waikato,72,13,281,256,<50
+177300,Chartwell,Waikato,40,20,123,325,163
+177400,Forest Lake (Hamilton City),Waikato,49,12,112,438,107
 177500,Chedworth,Waikato,14,7,49,286,143
-177600,Beerescourt,Waikato,27,7,69,391,101
+177600,Beerescourt,Waikato,28,7,Masked,394,99
 177700,Miropiko,Waikato,27,6,Masked,435,97
-177800,Porritt,Waikato,39,13,153,255,85
-177900,Dinsdale North,Waikato,77,27,204,377,132
-178000,Maeroa,Waikato,46,14,149,309,94
-178100,Dinsdale South,Waikato,58,15,170,341,88
+177800,Porritt,Waikato,39,13,154,253,84
+177900,Dinsdale North,Waikato,77,28,204,377,137
+178000,Maeroa,Waikato,46,14,148,311,95
+178100,Dinsdale South,Waikato,57,15,168,339,89
 178200,Fairfield (Hamilton City),Waikato,78,33,252,310,131
-178300,Whitiora,Waikato,23,5,71,324,70
-178400,Enderley North,Waikato,33,16,202,163,79
-178500,Fairview Downs,Waikato,61,19,164,372,116
+178300,Whitiora,Waikato,23,5,75,307,67
+178400,Enderley North,Waikato,34,17,204,167,83
+178500,Fairview Downs,Waikato,60,19,165,364,115
 178600,Temple View,Waikato,49,9,155,316,58
-178700,Swarbrick,Waikato,42,12,118,356,102
-178800,Kahikatea,Waikato,40,14,169,237,83
+178700,Swarbrick,Waikato,40,12,116,345,103
+178800,Kahikatea,Waikato,40,14,167,240,84
 178900,Frankton Junction,Waikato,Masked,Masked,Masked,Masked,Masked
 179000,Kirikiriroa,Waikato,Masked,Masked,Masked,Masked,Masked
-179100,Enderley South,Waikato,49,15,164,299,91
+179100,Enderley South,Waikato,48,14,162,296,86
 179200,Ruakura,Waikato,Masked,Masked,Masked,Masked,Masked
 179300,Claudelands,Waikato,31,10,76,408,132
 179400,Hamilton Central,Waikato,Masked,Masked,Masked,Masked,Masked
-179500,Hamilton Lake,Waikato,25,10,63,397,159
+179500,Hamilton Lake,Waikato,25,10,64,391,156
 179600,Peachgrove,Waikato,31,13,92,337,141
-179700,Hamilton East Village,Waikato,19,6,48,396,125
+179700,Hamilton East Village,Waikato,19,6,49,388,122
 179800,Hamilton West,Waikato,17,6,46,370,130
-179900,Greensboro,Waikato,28,10,85,329,118
-180000,Hamilton East Cook,Waikato,30,5,82,366,61
-180100,Melville North,Waikato,15,Masked,98,153,<50
-180200,Hamilton East,Waikato,46,27,107,430,252
-180300,Melville South,Waikato,37,17,143,259,119
-180400,Deanwell,Waikato,23,9,113,204,80
-180500,Bader,Waikato,55,16,212,259,75
-180600,Hillcrest West (Hamilton City),Waikato,16,9,60,267,150
-180700,Hillcrest East (Hamilton City),Waikato,33,16,87,379,184
-180800,Silverdale (Hamilton City),Waikato,18,8,45,400,178
-180900,Glenview,Waikato,27,13,89,303,146
-181000,Resthill,Waikato,18,7,66,273,106
+179900,Greensboro,Waikato,29,11,86,337,128
+180000,Hamilton East Cook,Waikato,30,5,84,357,60
+180100,Melville North,Waikato,15,Masked,95,158,<50
+180200,Hamilton East,Waikato,47,27,109,431,248
+180300,Melville South,Waikato,36,17,144,250,118
+180400,Deanwell,Waikato,22,9,113,195,80
+180500,Bader,Waikato,57,16,211,270,76
+180600,Hillcrest West (Hamilton City),Waikato,16,9,61,262,148
+180700,Hillcrest East (Hamilton City),Waikato,33,16,85,388,188
+180800,Silverdale (Hamilton City),Waikato,17,8,45,378,178
+180900,Glenview,Waikato,27,14,88,307,159
+181000,Resthill,Waikato,18,7,68,265,103
 181100,Fitzroy,Waikato,22,7,96,229,73
 181200,Riverlea,Waikato,27,13,46,587,283
 181300,Peacockes,Waikato,Masked,Masked,Masked,Masked,Masked
@@ -810,77 +810,77 @@ Unknown,NA,NA,596,246,1979,301,124
 183300,Te Awamutu North,Waikato,Masked,Masked,Masked,Masked,Masked
 183400,Te Awamutu West,Waikato,16,7,41,390,171
 183500,Leamington West,Waikato,Masked,Masked,Masked,Masked,Masked
-183600,Goodfellow Park,Waikato,15,6,60,250,100
-183700,Leamington South,Waikato,25,10,40,625,250
+183600,Goodfellow Park,Waikato,16,7,63,254,111
+183700,Leamington South,Waikato,Masked,Masked,Masked,Masked,Masked
 183800,Leamington Central,Waikato,24,9,60,400,150
 183900,Leamington East,Waikato,Masked,Masked,Masked,Masked,Masked
-184000,Te Awamutu Stadium,Waikato,25,Masked,59,424,68
+184000,Te Awamutu Stadium,Waikato,24,Masked,58,414,69
 184100,Te Awamutu Central,Waikato,Masked,Masked,Masked,Masked,Masked
-184200,Pekerau,Waikato,20,5,89,225,56
+184200,Pekerau,Waikato,19,Masked,88,216,<50
 184300,Fraser Street,Waikato,Masked,Masked,Masked,Masked,Masked
-184400,Sherwin Park,Waikato,32,10,84,381,119
+184400,Sherwin Park,Waikato,32,10,83,386,120
 184500,St Leger,Waikato,Masked,Masked,Masked,Masked,Masked
 184600,Rotoorangi,Waikato,Masked,Masked,Masked,Masked,Masked
 184700,Tokanui,Waikato,Masked,Masked,Masked,Masked,Masked
 184800,Kihikihi Central,Waikato,39,18,132,295,136
 184900,Maungatautari,Waikato,Masked,Masked,Masked,Masked,Masked
 185000,Rotongata,Waikato,Masked,Masked,Masked,Masked,Masked
-185200,Pirongia Forest,Waikato,Masked,Masked,58,52,<50
+185200,Pirongia Forest,Waikato,Masked,Masked,59,51,<50
 185300,Honikiwi,Waikato,15,7,52,288,135
 185400,Te Kawa,Waikato,Masked,Masked,Masked,Masked,Masked
-185500,Otorohanga,Waikato,32,13,178,180,73
-185600,Maihiihi,Waikato,17,Masked,62,274,<50
+185500,Otorohanga,Waikato,33,13,178,185,73
+185600,Maihiihi,Waikato,19,5,63,302,79
 185700,Puniu,Waikato,Masked,Masked,Masked,Masked,Masked
 185800,T?rau,Waikato,19,7,79,241,89
 185900,Put?ruru Rural,Waikato,23,10,69,333,145
 186000,Put?ruru,Waikato,58,18,231,251,78
-186100,Kinleith,Waikato,17,Masked,77,221,52
-186200,Paraonui,Waikato,24,5,94,255,53
+186100,Kinleith,Waikato,15,Masked,75,200,<50
+186200,Paraonui,Waikato,24,5,95,253,53
 186300,Parkdale,Waikato,16,Masked,53,302,75
-186400,Matarawa,Waikato,38,10,143,266,70
-186500,Stanley Park,Waikato,49,17,164,299,104
-186600,Strathmore (South Waikato District),Waikato,57,13,174,328,75
+186400,Matarawa,Waikato,38,12,143,266,84
+186500,Stanley Park,Waikato,50,18,165,303,109
+186600,Strathmore (South Waikato District),Waikato,58,13,175,331,74
 186700,Tokoroa Central,Waikato,18,9,70,257,129
-186800,Moananui,Waikato,66,23,247,267,93
-187000,Herangi,Waikato,9,5,Masked,173,96
+186800,Moananui,Waikato,66,23,245,269,94
+187000,Herangi,Waikato,9,5,Masked,176,98
 187100,Hangatiki,Waikato,11,Masked,40,275,50
 187200,Aria,Waikato,15,Masked,65,231,62
-187300,Te Kuiti West,Waikato,33,18,153,216,118
-187400,Te Kuiti East,Waikato,36,14,154,234,91
+187300,Te Kuiti West,Waikato,32,18,151,212,119
+187400,Te Kuiti East,Waikato,37,14,156,237,90
 187500,Waipa Valley,Waikato,Masked,Masked,Masked,Masked,Masked
 187600,Tiroa,Waikato,Masked,Masked,Masked,Masked,Masked
-187700,Marotiri,Lakes,25,12,126,198,95
-187800,Ohakuri,Lakes,11,Masked,72,153,<50
-187900,Lake Taupo Bays,Lakes,13,6,72,181,83
+187700,Marotiri,Lakes,28,12,130,215,92
+187800,Ohakuri,Lakes,11,Masked,69,159,<50
+187900,Lake Taupo Bays,Lakes,14,6,78,179,77
 188000,Mapara,Lakes,Masked,Masked,Masked,Masked,Masked
-188200,Wairakei-Broadlands,Lakes,14,7,60,233,117
+188200,Wairakei-Broadlands,Lakes,13,6,59,220,102
 188300,Acacia Bay,Lakes,Masked,Masked,Masked,Masked,Masked
-188400,Brentwood (Taupo District),Lakes,14,6,52,269,115
+188400,Brentwood (Taupo District),Lakes,14,6,51,275,118
 188500,Nukuhau-Rangatira Park,Lakes,20,8,75,267,107
 188600,Taup? Central West,Lakes,Masked,Masked,Masked,Masked,Masked
-188700,Tauhara,Lakes,36,12,133,271,90
+188700,Tauhara,Lakes,35,11,131,267,84
 188800,Taup? Central East,Lakes,22,6,117,188,51
-188900,Mountview,Lakes,31,9,126,246,71
-189000,Bird Area,Lakes,20,7,44,455,159
-189100,Hilltop (Taupo District),Lakes,24,5,89,270,56
+188900,Mountview,Lakes,31,9,128,242,70
+189000,Bird Area,Lakes,21,7,45,467,156
+189100,Hilltop (Taupo District),Lakes,24,5,88,273,57
 189200,Waipahihi,Lakes,22,8,54,407,148
-189300,Richmond Heights,Lakes,31,11,102,304,108
+189300,Richmond Heights,Lakes,31,11,101,307,109
 189400,Wharewaka,Lakes,Masked,Masked,Masked,Masked,Masked
-189600,Waitahanui,Lakes,8,Masked,49,163,<50
-189700,T?rangi,Lakes,45,18,356,126,51
+189600,Waitahanui,Lakes,9,Masked,50,180,<50
+189700,T?rangi,Lakes,45,20,354,127,56
 189800,Rangataiki,Lakes,Masked,Masked,Masked,Masked,Masked
 189900,Taharua,Lakes,Masked,Masked,Masked,Masked,Masked
 190100,Waiau,Bay of Plenty,Masked,Masked,Masked,Masked,Masked
 190200,Waihi Beach-Bowentown,Bay of Plenty,11,Masked,45,244,89
 190300,Tahawai,Bay of Plenty,Masked,Masked,Masked,Masked,Masked
 190400,Athenree,Bay of Plenty,Masked,Masked,Masked,Masked,Masked
-190500,Aongatete,Bay of Plenty,12,5,59,203,85
-190600,Katikati,Bay of Plenty,28,18,112,250,161
+190500,Aongatete,Bay of Plenty,12,5,60,200,83
+190600,Katikati,Bay of Plenty,28,18,111,252,162
 190800,Matakana Island,Bay of Plenty,Masked,Masked,Masked,Masked,Masked
-190900,Pahoia,Bay of Plenty,26,6,44,591,136
+190900,Pahoia,Bay of Plenty,26,6,43,605,140
 191000,Omokoroa,Bay of Plenty,14,Masked,68,206,<50
-191100,Omokoroa Rural,Bay of Plenty,12,5,40,300,125
-191200,Te Puna,Bay of Plenty,25,11,92,272,120
+191100,Omokoroa Rural,Bay of Plenty,Masked,Masked,Masked,Masked,Masked
+191200,Te Puna,Bay of Plenty,25,11,91,275,121
 191300,Minden,Bay of Plenty,Masked,Masked,Masked,Masked,Masked
 191400,Kaimai,Bay of Plenty,16,8,46,348,174
 191500,Kopurererua,Bay of Plenty,Masked,Masked,Masked,Masked,Masked
@@ -892,13 +892,13 @@ Unknown,NA,NA,596,246,1979,301,124
 192100,Te Puke East,Bay of Plenty,34,13,163,209,80
 192300,Maketu,Bay of Plenty,18,Masked,95,189,<50
 192400,Pukehina Beach,Bay of Plenty,Masked,Masked,Masked,Masked,Masked
-192500,Pongakawa,Bay of Plenty,30,7,131,229,53
+192500,Pongakawa,Bay of Plenty,30,7,130,231,54
 192600,Matua North,Bay of Plenty,Masked,Masked,Masked,Masked,Masked
-192800,Mount Maunganui North,Bay of Plenty,21,7,43,488,163
+192800,Mount Maunganui North,Bay of Plenty,20,7,41,488,171
 192900,Matua South,Bay of Plenty,Masked,Masked,Masked,Masked,Masked
 193000,Bethlehem North,Bay of Plenty,27,Masked,85,318,<50
-193100,Bellevue,Bay of Plenty,38,13,Masked,290,99
-193200,Ot?moetai North,Bay of Plenty,25,7,58,431,121
+193100,Bellevue,Bay of Plenty,38,13,130,292,100
+193200,Ot?moetai North,Bay of Plenty,24,7,58,414,121
 193300,Ot?moetai South,Bay of Plenty,36,14,68,529,206
 193400,Brookfield West,Bay of Plenty,22,Masked,96,229,<50
 193500,Bethlehem Central,Bay of Plenty,Masked,Masked,Masked,Masked,Masked
@@ -906,181 +906,181 @@ Unknown,NA,NA,596,246,1979,301,124
 193700,Mount Maunganui South,Bay of Plenty,20,6,40,500,150
 193800,Tauranga Central,Bay of Plenty,Masked,Masked,Masked,Masked,Masked
 193900,Mount Maunganui Central,Bay of Plenty,Masked,Masked,Masked,Masked,Masked
-194000,Judea,Bay of Plenty,20,10,81,247,123
-194100,Te Reti,Bay of Plenty,20,5,67,299,75
+194000,Judea,Bay of Plenty,20,11,81,247,136
+194100,Te Reti,Bay of Plenty,20,5,68,294,74
 194200,Bethlehem South,Bay of Plenty,Masked,Masked,Masked,Masked,Masked
 194300,Omanu Beach,Bay of Plenty,28,12,54,519,222
 194400,Tauranga Hospital,Bay of Plenty,24,9,88,273,102
 194500,Tauriko,Bay of Plenty,Masked,Masked,Masked,Masked,Masked
-194600,Gate Pa,Bay of Plenty,41,12,181,227,66
+194600,Gate Pa,Bay of Plenty,41,12,182,225,66
 194700,Greerton South,Bay of Plenty,Masked,Masked,Masked,Masked,Masked
-194800,Tauranga South,Bay of Plenty,28,12,116,241,103
-194900,Arataki North,Bay of Plenty,25,11,81,309,136
+194800,Tauranga South,Bay of Plenty,28,12,119,235,101
+194900,Arataki North,Bay of Plenty,26,11,82,317,134
 195000,Matapihi,Bay of Plenty,19,Masked,78,244,51
-195100,Pyes Pa West,Bay of Plenty,58,19,105,552,181
-195200,Greerton North,Bay of Plenty,27,10,98,276,102
-195300,Yatton Park,Bay of Plenty,35,13,193,181,67
-195400,Pyes Pa North,Bay of Plenty,27,Masked,94,287,<50
+195100,Pyes Pa West,Bay of Plenty,60,21,107,561,196
+195200,Greerton North,Bay of Plenty,27,10,97,278,103
+195300,Yatton Park,Bay of Plenty,35,13,194,180,67
+195400,Pyes Pa North,Bay of Plenty,26,5,94,277,53
 195500,Arataki South,Bay of Plenty,35,14,96,365,146
 195600,Pyes Pa South,Bay of Plenty,Masked,Masked,Masked,Masked,Masked
 195700,Poike,Bay of Plenty,6,Masked,41,146,<50
 195800,Te Maunga North,Bay of Plenty,21,5,101,208,50
-195900,Maungatapu,Bay of Plenty,25,9,95,263,95
+195900,Maungatapu,Bay of Plenty,26,9,98,265,92
 196000,Hairini,Bay of Plenty,28,Masked,94,298,<50
 196100,Pyes Pa East,Bay of Plenty,Masked,Masked,Masked,Masked,Masked
-196200,Te Maunga South,Bay of Plenty,31,9,84,369,107
+196200,Te Maunga South,Bay of Plenty,31,9,83,373,108
 196300,Kaitemako (Tauranga City),Bay of Plenty,13,7,50,260,140
 196400,Ohauiti,Bay of Plenty,18,7,61,295,115
 196500,Baypark-Kairua,Bay of Plenty,Masked,Masked,43,93,<50
-196600,Welcome Bay West,Bay of Plenty,25,6,116,216,52
+196600,Welcome Bay West,Bay of Plenty,25,6,114,219,53
 196700,Welcome Bay East,Bay of Plenty,19,8,114,167,70
 196800,Pacific View,Bay of Plenty,32,16,77,416,208
-196900,Welcome Bay South,Bay of Plenty,45,15,144,312,104
+196900,Welcome Bay South,Bay of Plenty,44,17,142,310,120
 197000,Palm Beach North,Bay of Plenty,43,14,Masked,297,97
 197100,Palm Beach South-Gravatt,Bay of Plenty,16,Masked,47,340,64
 197200,Papamoa Beach North,Bay of Plenty,25,7,95,263,74
 197300,Doncaster,Bay of Plenty,47,13,122,385,107
 197400,Papamoa Beach South,Bay of Plenty,25,9,79,316,114
 197500,Motiti,Bay of Plenty,35,15,92,380,163
-197600,Wairakei,Bay of Plenty,69,12,253,273,<50
+197600,Wairakei,Bay of Plenty,69,12,254,272,<50
 197700,Tui Ridge,Lakes,Masked,Masked,Masked,Masked,Masked
 197800,Arahiwi,Lakes,Masked,Masked,Masked,Masked,Masked
-197900,Ngongotah? Valley,Lakes,29,9,83,349,108
+197900,Ngongotah? Valley,Lakes,29,9,82,354,110
 198000,Hamurana,Lakes,Masked,Masked,Masked,Masked,Masked
 198100,Ngongotah? East,Lakes,40,8,130,308,62
 198200,Ngongotah? West,Lakes,18,9,79,228,114
-198400,Ngongotah? South,Lakes,17,Masked,64,266,<50
+198400,Ngongotah? South,Lakes,17,Masked,65,262,<50
 198500,Selwyn Heights,Lakes,18,Masked,74,243,<50
-198600,Pleasant Heights,Lakes,56,16,207,271,77
-198700,Rotoiti-Rotoehu,Lakes,51,16,139,367,115
+198600,Pleasant Heights,Lakes,55,16,206,267,78
+198700,Rotoiti-Rotoehu,Lakes,51,16,142,359,113
 198800,Kawaha,Lakes,43,28,98,439,286
-198900,Fairy Springs,Lakes,32,13,Masked,235,96
-199000,Western Heights (Rotorua District),Lakes,56,13,251,223,52
+198900,Fairy Springs,Lakes,32,13,138,232,94
+199000,Western Heights (Rotorua District),Lakes,57,13,253,225,51
 199100,Pukehangi North,Lakes,80,29,263,304,110
-199200,Pukehangi South,Lakes,47,15,93,505,161
+199200,Pukehangi South,Lakes,47,15,92,511,163
 199300,Mangakakahi Central,Lakes,Masked,Masked,Masked,Masked,Masked
-199400,Koutu,Lakes,66,24,203,325,118
-199500,Mangakakahi West,Lakes,47,14,158,297,89
-199600,Sunnybrook,Lakes,29,13,88,330,148
-199700,Fordlands,Lakes,78,19,267,292,71
-199800,Kuirau,Lakes,15,5,71,211,70
+199400,Koutu,Lakes,67,25,204,328,123
+199500,Mangakakahi West,Lakes,49,14,164,299,85
+199600,Sunnybrook,Lakes,29,14,88,330,159
+199700,Fordlands,Lakes,76,18,263,289,68
+199800,Kuirau,Lakes,15,5,70,214,71
 199900,Utuhina,Lakes,19,7,52,365,135
 2e+05,Pomare,Lakes,27,7,82,329,85
 200100,Rotorua Central,Lakes,Masked,Masked,Masked,Masked,Masked
 200200,Hillcrest (Rotorua District),Lakes,34,13,108,315,120
-200300,Victoria,Lakes,18,8,98,184,82
+200300,Victoria,Lakes,18,8,99,182,81
 200400,Waiohewa,Lakes,21,10,40,525,250
 200500,Glenholme North,Lakes,27,7,140,193,50
-200600,Springfield South,Lakes,18,7,49,367,143
-200700,Springfield North,Lakes,12,Masked,43,279,93
+200600,Springfield South,Lakes,18,7,47,383,149
+200700,Springfield North,Lakes,11,Masked,40,275,100
 200800,Glenholme South,Lakes,23,12,63,365,190
-200900,?whata West,Lakes,66,27,251,263,108
-201000,Holdens Bay-Rotokawa,Lakes,21,12,78,269,154
+200900,?whata West,Lakes,66,27,253,261,107
+201000,Holdens Bay-Rotokawa,Lakes,20,12,76,263,158
 201100,Ngapuna,Lakes,12,6,41,293,146
-201200,Fenton Park,Lakes,32,7,86,372,81
+201200,Fenton Park,Lakes,31,7,85,365,82
 201300,Tihiotonga-Whakarewarewa,Lakes,17,7,47,362,149
-201400,?whata East,Lakes,86,39,214,402,182
+201400,?whata East,Lakes,86,40,212,406,189
 201500,Lynmore,Lakes,35,20,45,778,444
-201600,Ngakuru,Lakes,9,Masked,55,164,73
-201700,Kaingaroa-Whakarewarewa,Lakes,12,Masked,71,169,<50
-201800,Golden Springs,Lakes,16,8,Masked,198,99
+201600,Ngakuru,Lakes,9,Masked,56,161,71
+201700,Kaingaroa-Whakarewarewa,Lakes,12,Masked,73,164,<50
+201800,Golden Springs,Lakes,16,8,Masked,195,98
 201900,Manawahe,Bay of Plenty,12,Masked,51,235,78
-202000,Matat?-Otakiri,Bay of Plenty,28,14,102,275,137
-202100,Onepu Spring,Bay of Plenty,21,5,82,256,61
-202200,Edgecumbe,Bay of Plenty,37,15,124,298,121
+202000,Matat?-Otakiri,Bay of Plenty,27,13,101,267,129
+202100,Onepu Spring,Bay of Plenty,21,5,83,253,60
+202200,Edgecumbe,Bay of Plenty,38,16,125,304,128
 202300,Thornton-Awakeri,Bay of Plenty,34,13,102,333,127
 202400,Te Teko Lakes,Bay of Plenty,49,15,193,254,78
 202500,Coastlands,Bay of Plenty,27,5,115,235,<50
 202600,Whakat?ne West,Bay of Plenty,71,31,289,246,107
-202700,Whakat?ne Central,Bay of Plenty,50,19,161,311,118
-202800,Trident,Bay of Plenty,61,18,263,232,68
-202900,Allandale,Bay of Plenty,27,10,148,182,68
+202700,Whakat?ne Central,Bay of Plenty,50,19,160,312,119
+202800,Trident,Bay of Plenty,62,18,263,236,68
+202900,Allandale,Bay of Plenty,27,11,150,180,73
 203000,Mokorua Bush,Bay of Plenty,Masked,Masked,Masked,Masked,Masked
-203100,Wainui,Bay of Plenty,26,7,138,188,51
+203100,Wainui,Bay of Plenty,26,7,137,190,51
 203200,?hope,Bay of Plenty,42,20,73,575,274
-203400,Galatea,Bay of Plenty,13,Masked,98,133,<50
-203500,Waingarara-Waimana,Bay of Plenty,53,14,284,187,<50
+203400,Galatea,Bay of Plenty,13,5,98,133,51
+203500,Waingarara-Waimana,Bay of Plenty,54,14,285,189,<50
 203600,Murupara,Bay of Plenty,8,Masked,222,<50,<50
-203700,Monika Reserve,Bay of Plenty,57,6,226,252,<50
+203700,Monika Reserve,Bay of Plenty,58,6,227,256,<50
 203800,Kawerau Industrial,Bay of Plenty,Masked,Masked,Masked,Masked,Masked
 203900,Tarawera Park,Bay of Plenty,103,25,432,238,58
 204100,Waiotahi,Bay of Plenty,30,11,97,309,113
-204200,Cape Runaway,Bay of Plenty,45,14,113,398,124
+204200,Cape Runaway,Bay of Plenty,46,14,113,407,124
 204300,Woodlands,Bay of Plenty,20,Masked,55,364,73
-204400,?p?tiki,Bay of Plenty,77,21,463,166,<50
-204500,Otara-Tirohanga,Bay of Plenty,21,11,94,223,117
+204400,?p?tiki,Bay of Plenty,77,21,464,166,<50
+204500,Otara-Tirohanga,Bay of Plenty,21,14,94,223,149
 204600,Oponae,Bay of Plenty,Masked,Masked,Masked,Masked,Masked
-204700,East Cape,Tairawhiti,89,31,169,527,183
-204800,Waipaoa,Tairawhiti,42,17,153,275,111
-204900,Ruatoria-Raukumara,Tairawhiti,105,56,179,587,313
-205000,Tokomaru,Tairawhiti,46,20,101,455,198
-205100,Hangaroa,Tairawhiti,46,16,93,495,172
-205200,Wharekaka,Tairawhiti,69,34,134,515,254
-205300,Te Arai,Tairawhiti,44,22,94,468,234
+204700,East Cape,Tairawhiti,89,35,169,527,207
+204800,Waipaoa,Tairawhiti,43,18,154,279,117
+204900,Ruatoria-Raukumara,Tairawhiti,104,56,178,584,315
+205000,Tokomaru,Tairawhiti,47,20,101,465,198
+205100,Hangaroa,Tairawhiti,46,16,95,484,168
+205200,Wharekaka,Tairawhiti,69,34,133,519,256
+205300,Te Arai,Tairawhiti,44,22,92,478,239
 205400,Hexton,Tairawhiti,37,21,90,411,233
 205500,Lytton,Tairawhiti,Masked,Masked,Masked,Masked,Masked
 205600,Makaraka-Awapuni,Tairawhiti,20,6,50,400,120
-205700,Riverdale,Tairawhiti,41,27,81,506,333
-205800,Te Hapara North,Tairawhiti,38,22,94,404,234
+205700,Riverdale,Tairawhiti,41,28,81,506,346
+205800,Te Hapara North,Tairawhiti,39,23,96,406,240
 205900,Mangapapa North,Tairawhiti,46,25,110,418,227
-206000,Elgin,Tairawhiti,115,55,254,453,217
-206100,Te Hapara South,Tairawhiti,82,44,180,456,244
+206000,Elgin,Tairawhiti,117,56,255,459,220
+206100,Te Hapara South,Tairawhiti,82,45,180,456,250
 206200,Mangapapa East,Tairawhiti,28,10,67,418,149
-206300,Mangapapa South,Tairawhiti,73,36,165,442,218
+206300,Mangapapa South,Tairawhiti,72,35,165,436,212
 206400,Te Hapara East,Tairawhiti,57,35,123,463,285
-206500,Centennial Crescent,Tairawhiti,73,38,126,579,302
+206500,Centennial Crescent,Tairawhiti,72,38,124,581,306
 206600,Whataupoko East,Tairawhiti,31,19,50,620,380
 206700,Whataupoko West,Tairawhiti,54,23,89,607,258
 206800,Gisborne Central,Tairawhiti,Masked,Masked,Masked,Masked,Masked
-206900,Kaiti North,Tairawhiti,67,33,115,583,287
-207000,Kaiti South,Tairawhiti,121,57,288,420,198
-207100,Outer Kaiti,Tairawhiti,158,65,340,465,191
-207200,Tamarau,Tairawhiti,111,53,273,407,194
+206900,Kaiti North,Tairawhiti,67,33,116,578,284
+207000,Kaiti South,Tairawhiti,122,57,288,424,198
+207100,Outer Kaiti,Tairawhiti,157,66,340,462,194
+207200,Tamarau,Tairawhiti,111,54,273,407,198
 207300,Wainui-Okitu,Tairawhiti,24,16,51,471,314
 207400,Maungataniwha-Raupunga,Hawke's Bay,17,5,95,179,53
 207600,Frasertown-Ruakituri,Hawke's Bay,Masked,Masked,Masked,Masked,Masked
 207700,Whakaki,Hawke's Bay,Masked,Masked,Masked,Masked,Masked
-207800,Wairoa,Hawke's Bay,137,39,456,300,86
-207900,Mahia,Hawke's Bay,21,Masked,80,262,<50
+207800,Wairoa,Hawke's Bay,137,39,458,299,85
+207900,Mahia,Hawke's Bay,20,Masked,79,253,<50
 208000,Puketitiri-Tutira,Hawke's Bay,13,6,68,191,88
 208100,Sherenden-Crownthorpe,Hawke's Bay,Masked,Masked,Masked,Masked,Masked
 208200,Maraekakaho,Hawke's Bay,Masked,Masked,Masked,Masked,Masked
 208300,Puketapu-Eskdale,Hawke's Bay,27,12,70,386,171
-208400,Omahu-Pakowhai,Hawke's Bay,21,10,70,300,143
-208500,Bridge Pa,Hawke's Bay,25,5,77,325,65
+208400,Omahu-Pakowhai,Hawke's Bay,21,10,71,296,141
+208500,Bridge Pa,Hawke's Bay,25,5,78,321,64
 208600,Twyford,Hawke's Bay,Masked,Masked,Masked,Masked,Masked
 208700,Poukawa,Hawke's Bay,28,Masked,64,438,<50
-208800,Flaxmere West,Hawke's Bay,72,11,279,258,<50
+208800,Flaxmere West,Hawke's Bay,72,12,280,257,<50
 208900,Omahu Strip,Hawke's Bay,Masked,Masked,Masked,Masked,Masked
-209000,Lochain Park,Hawke's Bay,64,18,311,206,58
-209100,Flaxmere Park,Hawke's Bay,68,17,256,266,66
-209200,Flaxmere South,Hawke's Bay,86,27,304,283,89
+209000,Lochain Park,Hawke's Bay,64,20,311,206,64
+209100,Flaxmere Park,Hawke's Bay,68,19,255,267,75
+209200,Flaxmere South,Hawke's Bay,86,29,Masked,284,96
 209300,Irongate,Hawke's Bay,Masked,Masked,Masked,Masked,Masked
-209400,Frimley,Hawke's Bay,28,14,64,438,219
-209500,Camberley,Hawke's Bay,67,22,189,354,116
+209400,Frimley,Hawke's Bay,28,15,64,438,234
+209500,Camberley,Hawke's Bay,67,22,188,356,117
 209600,Clive,Hawke's Bay,23,6,71,324,85
 209700,St Leonards,Hawke's Bay,23,6,96,240,62
-209800,Mahora,Hawke's Bay,38,17,102,373,167
+209800,Mahora,Hawke's Bay,39,18,103,379,175
 209900,Raureka,Hawke's Bay,32,11,152,211,72
-210000,Cornwall Park,Hawke's Bay,41,11,124,331,89
+210000,Cornwall Park,Hawke's Bay,41,11,123,333,89
 210100,Tomoana,Hawke's Bay,Masked,Masked,Masked,Masked,Masked
 210200,Longlands-Pukahu,Hawke's Bay,19,7,50,380,140
-210300,Raceway Park,Hawke's Bay,28,11,67,418,164
-210400,Karamu,Hawke's Bay,30,6,79,380,76
+210300,Raceway Park,Hawke's Bay,29,13,67,433,194
+210400,Karamu,Hawke's Bay,30,6,78,385,77
 210500,Hastings Central,Hawke's Bay,Masked,Masked,Masked,Masked,Masked
-210600,Tomoana Crossing,Hawke's Bay,17,6,60,283,100
+210600,Tomoana Crossing,Hawke's Bay,17,6,Masked,279,98
 210700,Akina Park,Hawke's Bay,27,8,71,380,113
-210800,Queens Square,Hawke's Bay,14,Masked,44,318,68
-210900,Mayfair,Hawke's Bay,49,8,185,265,<50
-211000,Parkhaven,Hawke's Bay,47,20,146,322,137
-211100,Parkvale,Hawke's Bay,31,12,65,477,185
+210800,Queens Square,Hawke's Bay,14,Masked,45,311,67
+210900,Mayfair,Hawke's Bay,48,8,184,261,<50
+211000,Parkhaven,Hawke's Bay,46,20,145,317,138
+211100,Parkvale,Hawke's Bay,30,12,64,469,188
 211200,Mangateretere,Hawke's Bay,Masked,Masked,Masked,Masked,Masked
 211300,Haumoana-Te Awanga,Hawke's Bay,15,Masked,57,263,70
 211400,Lucknow,Hawke's Bay,25,7,90,278,78
 211500,Karanema-St Hill,Hawke's Bay,Masked,Masked,Masked,Masked,Masked
 211600,Havelock North-Central,Hawke's Bay,Masked,Masked,Masked,Masked,Masked
 211700,Brookvale,Hawke's Bay,Masked,Masked,Masked,Masked,Masked
-211800,Iona,Hawke's Bay,28,14,50,560,280
+211800,Iona,Hawke's Bay,28,14,51,549,275
 211900,Hereworth,Hawke's Bay,Masked,Masked,Masked,Masked,Masked
 212000,Te Mata Hills,Hawke's Bay,Masked,Masked,Masked,Masked,Masked
 212100,Havelock Hills,Hawke's Bay,Masked,Masked,Masked,Masked,Masked
@@ -1099,27 +1099,27 @@ Unknown,NA,NA,596,246,1979,301,124
 213500,Tamatea West,Hawke's Bay,14,7,78,179,90
 213600,Tamatea North,Hawke's Bay,46,24,91,505,264
 213700,Taradale Central,Hawke's Bay,27,Masked,52,519,77
-213800,Tamatea East,Hawke's Bay,27,11,90,300,122
+213800,Tamatea East,Hawke's Bay,27,11,91,297,121
 213900,Marewa West,Hawke's Bay,Masked,Masked,Masked,Masked,Masked
 214000,Greenmeadows Central,Hawke's Bay,Masked,Masked,Masked,Masked,Masked
-214100,Onekawa Central,Hawke's Bay,25,6,58,431,103
-214200,Pirimai West,Hawke's Bay,29,10,71,408,141
+214100,Onekawa Central,Hawke's Bay,25,6,57,439,105
+214200,Pirimai West,Hawke's Bay,29,10,72,403,139
 214300,Napier Central,Hawke's Bay,Masked,Masked,Masked,Masked,Masked
-214400,Greenmeadows South,Hawke's Bay,24,Masked,72,333,56
+214400,Greenmeadows South,Hawke's Bay,25,Masked,73,342,55
 214500,Nelson Park,Hawke's Bay,32,9,69,464,130
-214600,Bledisloe Park,Hawke's Bay,36,12,64,562,188
-214700,Pirimai East,Hawke's Bay,42,14,98,429,143
-214800,Onekawa East,Hawke's Bay,23,9,116,198,78
+214600,Bledisloe Park,Hawke's Bay,35,12,64,547,188
+214700,Pirimai East,Hawke's Bay,42,14,97,433,144
+214800,Onekawa East,Hawke's Bay,23,9,115,200,78
 214900,Tareha Reserve,Hawke's Bay,31,10,90,344,111
-215000,Marewa East,Hawke's Bay,65,27,237,274,114
-215100,Onekawa South,Hawke's Bay,60,16,216,278,74
-215200,McLean Park,Hawke's Bay,34,16,59,576,271
-215300,Maraenui,Hawke's Bay,77,17,361,213,<50
-215400,Meeanee-Awatoto,Hawke's Bay,39,10,77,506,130
+215000,Marewa East,Hawke's Bay,65,27,238,273,113
+215100,Onekawa South,Hawke's Bay,61,17,215,284,79
+215200,McLean Park,Hawke's Bay,34,16,60,567,267
+215300,Maraenui,Hawke's Bay,77,17,360,214,<50
+215400,Meeanee-Awatoto,Hawke's Bay,40,11,77,519,143
 215500,Mangaonuku,Hawke's Bay,Masked,Masked,Masked,Masked,Masked
 215600,Makaretu,Hawke's Bay,33,9,85,388,106
-215700,Waipawa,Hawke's Bay,24,9,82,293,110
-215800,Waipukurau West,Hawke's Bay,46,16,125,368,128
+215700,Waipawa,Hawke's Bay,24,10,82,293,122
+215800,Waipukurau West,Hawke's Bay,46,16,124,371,129
 215900,Mangarara,Hawke's Bay,37,7,Masked,507,96
 216000,Waipukurau East,Hawke's Bay,35,12,88,398,136
 216100,Taurekaitai,Hawke's Bay,15,Masked,49,306,<50
@@ -1134,7 +1134,7 @@ Unknown,NA,NA,596,246,1979,301,124
 217100,Marfell,Taranaki,20,7,134,149,52
 217200,Whalers Gate,Taranaki,Masked,Masked,Masked,Masked,Masked
 217300,Strandon,Taranaki,Masked,Masked,Masked,Masked,Masked
-217400,Westown,Taranaki,44,13,145,303,90
+217400,Westown,Taranaki,45,13,145,310,90
 217500,Bell Block West,Taranaki,34,6,131,260,<50
 217600,Bell Block East,Taranaki,32,18,88,364,205
 217700,Waiwhakaiho-Bell Block South,Taranaki,Masked,Masked,Masked,Masked,Masked
@@ -1143,13 +1143,13 @@ Unknown,NA,NA,596,246,1979,301,124
 218000,Frankleigh Park,Taranaki,29,10,86,337,116
 218100,Merrilands,Taranaki,26,11,78,333,141
 218200,Ferndale,Taranaki,Masked,Masked,Masked,Masked,Masked
-218300,Welbourn,Taranaki,25,12,65,385,185
+218300,Welbourn,Taranaki,25,12,66,379,182
 218400,Fitzroy-Glen Avon,Taranaki,32,12,87,368,138
-218500,Waitara West,Taranaki,48,21,241,199,87
+218500,Waitara West,Taranaki,49,21,241,203,87
 218600,Upper Vogeltown,Taranaki,22,11,58,379,190
 218700,Highlands Park (New Plymouth District),Taranaki,30,16,52,577,308
 218800,Paraite,Taranaki,Masked,Masked,Masked,Masked,Masked
-218900,Waitara East,Taranaki,32,7,175,183,<50
+218900,Waitara East,Taranaki,32,7,176,182,<50
 219000,Lepperton-Brixton,Taranaki,22,7,58,379,121
 219100,Mangorei,Taranaki,Masked,Masked,Masked,Masked,Masked
 219200,Mount Messenger,Taranaki,Masked,Masked,Masked,Masked,Masked
@@ -1165,7 +1165,7 @@ Unknown,NA,NA,596,246,1979,301,124
 220200,Whangamomona,Taranaki,Masked,Masked,Masked,Masked,Masked
 220300,Stratford Central,Taranaki,19,7,52,365,135
 220400,Stratford South,Taranaki,18,6,80,225,75
-220500,Cape Egmont,Taranaki,24,6,91,264,66
+220500,Cape Egmont,Taranaki,24,6,90,267,67
 220600,Taungatara,Taranaki,Masked,Masked,Masked,Masked,Masked
 220700,?punake,Taranaki,20,8,73,274,110
 220800,Kaponga-Mangatoki,Taranaki,Masked,Masked,Masked,Masked,Masked
@@ -1173,49 +1173,49 @@ Unknown,NA,NA,596,246,1979,301,124
 221000,Eltham,Taranaki,20,13,79,253,165
 221100,Okaiawa,Taranaki,Masked,Masked,Masked,Masked,Masked
 221200,Te Roti-Moeroa,Taranaki,Masked,Masked,Masked,Masked,Masked
-221300,Egmont Showgrounds,Taranaki,27,5,49,551,102
+221300,Egmont Showgrounds,Taranaki,27,6,49,551,122
 221400,Normanby-Tawhiti,Taranaki,19,6,91,209,66
 221500,Ohangai,Taranaki,Masked,Masked,Masked,Masked,Masked
 221600,Turuturu,Taranaki,23,10,81,284,123
 221700,King Edward Park,Taranaki,31,14,73,425,192
-221800,Ramanui,Taranaki,33,14,131,252,107
-221900,Hawera Central,Taranaki,26,11,86,302,128
+221800,Ramanui,Taranaki,33,14,126,262,111
+221900,Hawera Central,Taranaki,26,11,91,286,121
 222000,Mangawhio,Taranaki,Masked,Masked,Masked,Masked,Masked
 222100,Manutahi-Waitotora,Taranaki,15,Masked,62,242,<50
 222200,P?tea,Taranaki,31,9,111,279,81
 222300,Otangiwai-Ohura,Waikato,Masked,Masked,Masked,Masked,Masked
 222400,Ngapuke,Waikato,15,Masked,74,203,<50
 222500,Taumarunui North,Waikato,32,16,126,254,127
-222600,Taumarunui Central,Waikato,22,8,100,220,80
-222700,Taumarunui East,Waikato,33,14,139,237,101
+222600,Taumarunui Central,Waikato,22,8,99,222,81
+222700,Taumarunui East,Waikato,33,14,140,236,100
 222800,National Park,Waikato,Masked,Masked,Masked,Masked,Masked
-222900,Tangiwai,Whanganui,22,8,73,301,110
-223000,Raetihi,Whanganui,10,Masked,120,83,<50
-223100,Ohakune,Whanganui,15,Masked,70,214,<50
+222900,Tangiwai,Whanganui,22,9,72,306,125
+223000,Raetihi,Whanganui,10,Masked,119,84,<50
+223100,Ohakune,Whanganui,15,8,71,211,113
 223200,Waiouru,Whanganui,20,8,56,357,143
 223300,Upper Whanganui,Whanganui,16,Masked,65,246,<50
 223400,Mowhanau,Whanganui,Masked,Masked,Masked,Masked,Masked
 223500,Brunswick-Papaiti,Whanganui,Masked,Masked,Masked,Masked,Masked
 223600,Castlecliff West,Whanganui,26,11,101,257,109
 223700,Otamatea (Whanganui District),Whanganui,Masked,Masked,Masked,Masked,Masked
-223800,Castlecliff East,Whanganui,31,11,145,214,76
+223800,Castlecliff East,Whanganui,31,11,143,217,77
 223900,Springvale North,Whanganui,Masked,Masked,Masked,Masked,Masked
-224000,Lower Aramoho,Whanganui,46,15,116,397,129
+224000,Lower Aramoho,Whanganui,46,15,117,393,128
 224100,St Johns Hill East,Whanganui,Masked,Masked,Masked,Masked,Masked
 224200,St Johns Hill West,Whanganui,15,13,43,349,302
-224300,Titoki,Whanganui,39,12,195,200,62
+224300,Titoki,Whanganui,38,12,194,196,62
 224400,Springvale West,Whanganui,Masked,Masked,Masked,Masked,Masked
-224500,Springvale East,Whanganui,19,5,40,475,125
+224500,Springvale East,Whanganui,19,5,41,463,122
 224600,Upper Aramoho,Whanganui,36,8,104,346,77
 224700,Balgownie,Whanganui,Masked,Masked,Masked,Masked,Masked
 224800,Laird Park,Whanganui,19,7,109,174,64
-224900,Wembley Park,Whanganui,33,15,129,256,116
+224900,Wembley Park,Whanganui,32,14,129,248,109
 225000,College Estate,Whanganui,Masked,Masked,Masked,Masked,Masked
 225100,Whanganui East-Williams Domain,Whanganui,35,14,108,324,130
-225200,Gonville West,Whanganui,44,9,148,297,61
+225200,Gonville West,Whanganui,44,9,147,299,61
 225300,Gonville North,Whanganui,34,17,118,288,144
 225400,Cornmarket,Whanganui,Masked,Masked,Masked,Masked,Masked
-225500,Whanganui East-Riverlands,Whanganui,16,9,70,229,129
+225500,Whanganui East-Riverlands,Whanganui,16,9,69,232,130
 225600,Kaitoke-Fordell,Whanganui,13,8,46,283,174
 225700,Whanganui Central,Whanganui,Masked,Masked,Masked,Masked,Masked
 225800,Gonville South,Whanganui,26,12,90,289,133
@@ -1223,100 +1223,100 @@ Unknown,NA,NA,596,246,1979,301,124
 226000,Putiki,Whanganui,Masked,Masked,Masked,Masked,Masked
 226100,Mokai Patea,Whanganui,22,9,54,407,167
 226200,Ngamatea,Whanganui,Masked,Masked,Masked,Masked,Masked
-226300,Turakina,Whanganui,21,11,45,467,244
+226300,Turakina,Whanganui,21,11,47,447,234
 226400,Otairi,Whanganui,Masked,Masked,Masked,Masked,Masked
-226500,Taihape,Whanganui,34,15,107,318,140
+226500,Taihape,Whanganui,34,15,108,315,139
 226600,Marton Rural,Whanganui,Masked,Masked,Masked,Masked,Masked
 226700,Marton North,Whanganui,26,9,75,347,120
 226800,Parewanui,Whanganui,Masked,Masked,Masked,Masked,Masked
-226900,Marton South,Whanganui,28,10,Masked,269,96
-227000,Bulls,Whanganui,44,19,101,436,188
+226900,Marton South,Whanganui,28,10,Masked,275,98
+227000,Bulls,Whanganui,44,20,101,436,198
 227100,Kiwitea,MidCentral,Masked,Masked,Masked,Masked,Masked
 227200,Tokorangi,MidCentral,22,14,46,478,304
 227300,Ohakea-Sanson,MidCentral,Masked,Masked,Masked,Masked,Masked
 227400,Oroua Downs,MidCentral,Masked,Masked,Masked,Masked,Masked
-227500,Awahuri,MidCentral,18,5,47,383,106
+227500,Awahuri,MidCentral,18,5,49,367,102
 227600,Pohangina-Apiti,MidCentral,Masked,Masked,Masked,Masked,Masked
 227700,Mount Taylor,MidCentral,Masked,Masked,Masked,Masked,Masked
 227800,Taikorea,MidCentral,Masked,Masked,Masked,Masked,Masked
-227900,Makino,MidCentral,39,11,127,307,87
-228000,Sandon,MidCentral,27,12,48,562,250
+227900,Makino,MidCentral,38,11,125,304,88
+228000,Sandon,MidCentral,27,12,50,540,240
 228100,Kimbolton North,MidCentral,42,21,106,396,198
 228200,Warwick,MidCentral,Masked,Masked,Masked,Masked,Masked
-228300,Kimbolton West,MidCentral,29,18,91,319,198
+228300,Kimbolton West,MidCentral,29,18,93,312,194
 228400,Feilding Central,MidCentral,Masked,Masked,Masked,Masked,Masked
 228500,Kimbolton South,MidCentral,34,7,76,447,92
 228600,Kauwhata,MidCentral,23,8,42,548,190
-228700,Taonui,MidCentral,17,11,42,405,262
-228800,Newbury,MidCentral,21,6,43,488,140
+228700,Taonui,MidCentral,17,11,41,415,268
+228800,Newbury,MidCentral,20,6,42,476,143
 228900,Palmerston North Airport,MidCentral,Masked,Masked,Masked,Masked,Masked
-229000,Milson North,MidCentral,25,8,52,481,154
-229100,Cloverlea (Palmerston North City),MidCentral,24,11,66,364,167
+229000,Milson North,MidCentral,25,8,53,472,151
+229100,Cloverlea (Palmerston North City),MidCentral,25,12,72,347,167
 229200,Tremaine,MidCentral,Masked,Masked,Masked,Masked,Masked
-229300,Milson South,MidCentral,33,14,104,317,135
+229300,Milson South,MidCentral,33,14,106,311,132
 229400,Whakarongo,MidCentral,Masked,Masked,Masked,Masked,Masked
-229500,Westbrook,MidCentral,61,30,182,335,165
-229600,Takaro North,MidCentral,34,12,98,347,122
+229500,Westbrook,MidCentral,61,30,181,337,166
+229600,Takaro North,MidCentral,35,12,96,365,125
 229700,Pioneer West,MidCentral,Masked,Masked,Masked,Masked,Masked
 229800,Palmerston North Hospital,MidCentral,23,8,46,500,174
-229900,Highbury East,MidCentral,44,15,213,207,70
+229900,Highbury East,MidCentral,43,15,211,204,71
 230000,Park West,MidCentral,11,Masked,48,229,83
-230100,Takaro South,MidCentral,39,14,56,696,250
-230200,Roslyn (Palmerston North City),MidCentral,20,12,77,260,156
-230300,Kelvin Grove West,MidCentral,38,18,94,404,191
+230100,Takaro South,MidCentral,40,14,57,702,246
+230200,Roslyn (Palmerston North City),MidCentral,20,12,76,263,158
+230300,Kelvin Grove West,MidCentral,40,20,94,426,213
 230400,Kelvin Grove North,MidCentral,Masked,Masked,Masked,Masked,Masked
-230500,Papaioea North,MidCentral,15,5,47,319,106
+230500,Papaioea North,MidCentral,15,5,46,326,109
 230600,Palmerston North Central,MidCentral,Masked,Masked,Masked,Masked,Masked
-230700,Awapuni North,MidCentral,41,18,145,283,124
-230800,Terrace End,MidCentral,41,18,116,353,155
+230700,Awapuni North,MidCentral,40,17,142,282,120
+230800,Terrace End,MidCentral,41,19,116,353,164
 230900,Maraetarata,MidCentral,Masked,Masked,Masked,Masked,Masked
 231000,Papaioea South,MidCentral,Masked,Masked,Masked,Masked,Masked
 231100,Royal Oak (Palmerston North City),MidCentral,Masked,Masked,Masked,Masked,Masked
 231200,West End,MidCentral,22,8,68,324,118
-231300,Awapuni South,MidCentral,47,20,85,553,235
-231400,Milverton,MidCentral,15,9,43,349,209
-231500,Ruamahanga,MidCentral,37,20,76,487,263
-231600,Esplanade,MidCentral,15,11,46,326,239
+231300,Awapuni South,MidCentral,48,21,85,565,247
+231400,Milverton,MidCentral,16,9,44,364,205
+231500,Ruamahanga,MidCentral,37,20,77,481,260
+231600,Esplanade,MidCentral,15,11,47,319,234
 231700,Hokowhitu Central,MidCentral,Masked,Masked,Masked,Masked,Masked
 231800,Hokowhitu East,MidCentral,37,20,59,627,339
 232000,Ruahine,MidCentral,Masked,Masked,Masked,Masked,Masked
 232100,Linton Camp,MidCentral,18,12,40,450,300
-232200,Ashhurst,MidCentral,54,26,105,514,248
-232300,Hokowhitu South,MidCentral,21,5,50,420,100
+232200,Ashhurst,MidCentral,54,26,104,519,250
+232300,Hokowhitu South,MidCentral,19,Masked,48,396,62
 232400,Aokautere,MidCentral,Masked,Masked,Masked,Masked,Masked
 232500,Pihauatua,MidCentral,Masked,Masked,Masked,Masked,Masked
 232600,Aokautere Rural,MidCentral,Masked,Masked,Masked,Masked,Masked
 232700,Poutoa,MidCentral,Masked,Masked,Masked,Masked,Masked
-232800,Norsewood,MidCentral,8,5,Masked,157,98
-232900,Papatawa,MidCentral,25,17,56,446,304
-233000,Mangatainoka,MidCentral,15,Masked,41,366,<50
-233100,Woodville,MidCentral,17,9,63,270,143
-233200,Dannevirke West,MidCentral,31,8,100,310,80
-233300,Dannevirke East,MidCentral,36,10,177,203,56
+232800,Norsewood,MidCentral,8,5,53,151,94
+232900,Papatawa,MidCentral,24,17,54,444,315
+233000,Mangatainoka,MidCentral,15,Masked,42,357,<50
+233100,Woodville,MidCentral,17,9,61,279,148
+233200,Dannevirke West,MidCentral,30,8,99,303,81
+233300,Dannevirke East,MidCentral,40,10,181,221,55
 233400,Waitahora,MidCentral,Masked,Masked,Masked,Masked,Masked
 233500,Kaitawa,MidCentral,Masked,Masked,Masked,Masked,Masked
-233600,Pahiatua,MidCentral,34,11,96,354,115
-233700,Nireaha-Eketahuna,MidCentral,23,9,52,442,173
+233600,Pahiatua,MidCentral,34,11,97,351,113
+233700,Nireaha-Eketahuna,MidCentral,23,9,50,460,180
 233800,Owhanga,MidCentral,Masked,Masked,Masked,Masked,Masked
 234000,Kere Kere,MidCentral,Masked,Masked,Masked,Masked,Masked
-234100,Foxton Beach,MidCentral,19,7,46,413,152
+234100,Foxton Beach,MidCentral,20,7,47,426,149
 234200,Foxton North,MidCentral,25,Masked,72,347,56
-234300,Foxton South,MidCentral,31,12,109,284,110
-234400,Waitarere,MidCentral,24,10,59,407,169
+234300,Foxton South,MidCentral,30,12,107,280,112
+234400,Waitarere,MidCentral,24,12,59,407,203
 234500,Waikawa (Horowhenua District),MidCentral,Masked,Masked,Masked,Masked,Masked
 234600,Miranui,MidCentral,27,16,57,474,281
 234700,Donnelly Park,MidCentral,21,11,51,412,216
 234800,?hau-Manakau,MidCentral,17,5,58,293,86
-234900,Kawiu South,MidCentral,43,13,108,398,120
+234900,Kawiu South,MidCentral,42,12,107,393,112
 235000,Makomako,MidCentral,16,5,68,235,74
-235100,Kawiu North,MidCentral,18,8,58,310,138
+235100,Kawiu North,MidCentral,18,8,55,327,145
 235200,Levin Central,MidCentral,Masked,Masked,Masked,Masked,Masked
-235300,Tararua,MidCentral,14,Masked,45,311,67
+235300,Tararua,MidCentral,13,Masked,44,295,68
 235400,Shannon,MidCentral,22,6,97,227,62
-235500,Queenwood (Horowhenua District),MidCentral,19,8,79,241,101
-235600,Playford Park,MidCentral,29,9,88,330,102
-235700,Fairfield (Horowhenua District),MidCentral,26,10,52,500,192
-235800,Taitoko,MidCentral,44,8,143,308,56
+235500,Queenwood (Horowhenua District),MidCentral,19,8,78,244,103
+235600,Playford Park,MidCentral,31,9,90,344,100
+235700,Fairfield (Horowhenua District),MidCentral,26,10,55,473,182
+235800,Taitoko,MidCentral,43,8,143,301,56
 235900,Waiopehu,MidCentral,19,5,56,339,89
 236000,Makahika,MidCentral,Masked,Masked,Masked,Masked,Masked
 236100,Kimberley,MidCentral,Masked,Masked,Masked,Masked,Masked
@@ -1335,109 +1335,109 @@ Unknown,NA,NA,596,246,1979,301,124
 237500,Paraparaumu North,Capital and Coast,27,18,58,466,310
 237600,Waikanae West,Capital and Coast,35,26,78,449,333
 237700,?taki Forks,MidCentral,Masked,Masked,Masked,Masked,Masked
-237800,Paraparaumu Central,Capital and Coast,43,20,92,467,217
+237800,Paraparaumu Central,Capital and Coast,42,19,91,462,209
 237900,Maungakotukutuku,Capital and Coast,Masked,Masked,Masked,Masked,Masked
 238000,Raumati Beach West,Capital and Coast,26,18,51,510,353
 238100,Waikanae East,Capital and Coast,Masked,Masked,Masked,Masked,Masked
 238300,Raumati Beach East,Capital and Coast,Masked,Masked,Masked,Masked,Masked
-238400,Paraparaumu East,Capital and Coast,16,6,50,320,120
+238400,Paraparaumu East,Capital and Coast,16,6,51,314,118
 238500,Raumati South,Capital and Coast,25,16,62,403,258
 238600,Paek?k?riki,Capital and Coast,Masked,Masked,Masked,Masked,Masked
-238800,Pukerua Bay,Capital and Coast,23,12,47,489,255
+238800,Pukerua Bay,Capital and Coast,23,13,47,489,277
 238900,Paek?k?riki Hill,Capital and Coast,Masked,Masked,Masked,Masked,Masked
 239000,Plimmerton,Capital and Coast,Masked,Masked,Masked,Masked,Masked
-239100,Titahi Bay North,Capital and Coast,60,25,138,435,181
-239200,Titahi Bay South,Capital and Coast,70,16,216,324,74
-239300,Elsdon-Takapuwahia,Capital and Coast,64,24,179,358,134
+239100,Titahi Bay North,Capital and Coast,60,25,137,438,182
+239200,Titahi Bay South,Capital and Coast,66,17,215,307,79
+239300,Elsdon-Takapuwahia,Capital and Coast,64,24,178,360,135
 239400,P?uatahanui,Capital and Coast,Masked,Masked,Masked,Masked,Masked
-239500,Onepoto,Capital and Coast,38,15,85,447,176
+239500,Onepoto,Capital and Coast,38,15,84,452,179
 239600,Camborne,Capital and Coast,Masked,Masked,Masked,Masked,Masked
 239800,Paremata,Capital and Coast,19,7,49,388,143
 239900,Porirua Central,Capital and Coast,Masked,Masked,Masked,Masked,Masked
-240000,Papak?whai,Capital and Coast,29,18,53,547,340
+240000,Papak?whai,Capital and Coast,29,18,54,537,333
 240100,Aotea,Capital and Coast,Masked,Masked,Masked,Masked,Masked
 240200,Postgate,Capital and Coast,40,20,63,635,317
 240300,Ascot Park,Capital and Coast,60,21,123,488,171
-240400,Whitby,Capital and Coast,32,17,55,582,309
-240500,Porirua East,Capital and Coast,34,Masked,111,306,<50
+240400,Whitby,Capital and Coast,32,17,56,571,304
+240500,Porirua East,Capital and Coast,34,Masked,114,298,<50
 240600,Endeavour,Capital and Coast,48,24,55,873,436
-240700,Cannons Creek North,Capital and Coast,61,19,Masked,319,99
-240800,Waitangirua,Capital and Coast,71,27,235,302,115
-240900,Ranui Heights,Capital and Coast,18,7,40,450,175
+240700,Cannons Creek North,Capital and Coast,61,19,190,321,100
+240800,Waitangirua,Capital and Coast,71,27,234,303,115
+240900,Ranui Heights,Capital and Coast,19,7,41,463,171
 241000,Cannons Creek East,Capital and Coast,45,18,147,306,122
 241100,Cannons Creek South,Capital and Coast,19,5,73,260,68
 241200,Akatarawa,Hutt Valley,Masked,Masked,Masked,Masked,Masked
 241300,Riverstone Terraces,Hutt Valley,Masked,Masked,Masked,Masked,Masked
 241400,Heretaunga,Hutt Valley,Masked,Masked,Masked,Masked,Masked
 241500,Birchville-Brown Owl,Hutt Valley,54,23,92,587,250
-241600,Poets Block,Hutt Valley,27,13,65,415,200
-241700,Brentwood (Upper Hutt City),Hutt Valley,39,17,66,591,258
+241600,Poets Block,Hutt Valley,27,13,63,429,206
+241700,Brentwood (Upper Hutt City),Hutt Valley,38,16,66,576,242
 241800,Silverstream (Upper Hutt City),Hutt Valley,Masked,Masked,Masked,Masked,Masked
-241900,Elderslea,Hutt Valley,47,22,87,540,253
+241900,Elderslea,Hutt Valley,46,23,87,529,264
 242000,Trentham North,Hutt Valley,20,10,45,444,222
-242100,Totara Park,Hutt Valley,31,10,59,525,169
+242100,Totara Park,Hutt Valley,30,10,57,526,175
 242200,Trentham South,Hutt Valley,Masked,Masked,Masked,Masked,Masked
 242300,Mangaroa,Hutt Valley,Masked,Masked,Masked,Masked,Masked
 242400,Ebdentown,Hutt Valley,20,12,54,370,222
 242500,Wallaceville,Hutt Valley,20,8,48,417,167
-242600,Maoribank,Hutt Valley,58,23,129,450,178
+242600,Maoribank,Hutt Valley,59,23,131,450,176
 242700,Te Marua,Hutt Valley,Masked,Masked,Masked,Masked,Masked
 242800,Pinehaven,Hutt Valley,Masked,Masked,Masked,Masked,Masked
 242900,Clouston Park,Hutt Valley,32,8,57,561,140
 243000,Upper Hutt Central,Hutt Valley,Masked,Masked,Masked,Masked,Masked
 243100,Belmont Park,Hutt Valley,Masked,Masked,Masked,Masked,Masked
-243200,Maungaraki,Hutt Valley,47,18,62,758,290
+243200,Maungaraki,Hutt Valley,47,18,61,770,295
 243300,Korokoro,Hutt Valley,Masked,Masked,Masked,Masked,Masked
-243400,Kelson,Hutt Valley,29,20,41,707,488
+243400,Kelson,Hutt Valley,29,20,43,674,465
 243500,Normandale,Hutt Valley,Masked,Masked,Masked,Masked,Masked
 243600,Belmont (Lower Hutt City),Hutt Valley,Masked,Masked,Masked,Masked,Masked
 243700,Petone Central,Hutt Valley,Masked,Masked,Masked,Masked,Masked
 243800,Tirohanga,Hutt Valley,Masked,Masked,Masked,Masked,Masked
 243900,Manor Park,Hutt Valley,Masked,Masked,Masked,Masked,Masked
 244000,Alicetown-Melling,Hutt Valley,22,8,41,537,195
-244100,Taita North,Hutt Valley,35,12,108,324,111
+244100,Taita North,Hutt Valley,35,12,107,327,112
 244200,Boulcott,Hutt Valley,Masked,Masked,Masked,Masked,Masked
 244300,Hutt Central North,Hutt Valley,Masked,Masked,Masked,Masked,Masked
 244400,Avalon West,Hutt Valley,21,10,42,500,238
-244500,Stokes Valley Central,Hutt Valley,39,19,93,419,204
-244600,Taita South,Hutt Valley,33,11,122,270,90
+244500,Stokes Valley Central,Hutt Valley,40,20,94,426,213
+244600,Taita South,Hutt Valley,32,10,121,264,83
 244700,Petone East,Hutt Valley,31,19,47,660,404
 244800,Hutt Central South,Hutt Valley,Masked,Masked,Masked,Masked,Masked
-244900,Stokes Valley North,Hutt Valley,49,26,101,485,257
+244900,Stokes Valley North,Hutt Valley,50,26,103,485,252
 245000,Petone Esplanade,Hutt Valley,Masked,Masked,Masked,Masked,Masked
-245100,Epuni West,Hutt Valley,28,13,49,571,265
-245200,Avalon East,Hutt Valley,19,8,75,253,107
+245100,Epuni West,Hutt Valley,29,13,50,580,260
+245200,Avalon East,Hutt Valley,20,9,76,263,118
 245300,Woburn,Hutt Valley,Masked,Masked,Masked,Masked,Masked
-245400,Naenae Central,Hutt Valley,56,21,129,434,163
+245400,Naenae Central,Hutt Valley,56,21,128,438,164
 245500,Waterloo West,Hutt Valley,Masked,Masked,Masked,Masked,Masked
-245600,Epuni East,Hutt Valley,20,12,72,278,167
+245600,Epuni East,Hutt Valley,21,12,73,288,164
 245700,Gracefield,Hutt Valley,Masked,Masked,Masked,Masked,Masked
-245800,Moera,Hutt Valley,21,10,60,350,167
+245800,Moera,Hutt Valley,22,11,61,361,180
 245900,Delaney,Hutt Valley,45,22,108,417,204
-246000,Waiwhetu,Hutt Valley,75,47,128,586,367
+246000,Waiwhetu,Hutt Valley,75,47,130,577,362
 246100,Waterloo East,Hutt Valley,Masked,Masked,Masked,Masked,Masked
-246200,Naenae North,Hutt Valley,26,10,91,286,110
-246300,Manuka,Hutt Valley,21,9,40,525,225
-246400,Naenae South,Hutt Valley,49,18,130,377,138
+246200,Naenae North,Hutt Valley,26,10,90,289,111
+246300,Manuka,Hutt Valley,20,9,40,500,225
+246400,Naenae South,Hutt Valley,48,18,128,375,141
 246600,Arakura,Hutt Valley,62,20,142,437,141
 246700,Eastern Bays,Hutt Valley,Masked,Masked,Masked,Masked,Masked
 246800,Pencarrow,Hutt Valley,Masked,Masked,Masked,Masked,Masked
 246900,Wainuiomata West,Hutt Valley,51,16,122,418,131
-247000,Glendale,Hutt Valley,96,41,251,382,163
-247100,Wainuiomata Central,Hutt Valley,33,16,82,402,195
+247000,Glendale,Hutt Valley,95,42,250,380,168
+247100,Wainuiomata Central,Hutt Valley,33,17,82,402,207
 247200,Eastbourne,Hutt Valley,Masked,Masked,Masked,Masked,Masked
-247300,Homedale East,Hutt Valley,49,15,127,386,118
-247400,Homedale West,Hutt Valley,40,13,102,392,127
+247300,Homedale East,Hutt Valley,49,15,129,380,116
+247400,Homedale West,Hutt Valley,40,13,101,396,129
 247500,M?kara-Ohariu,Capital and Coast,Masked,Masked,Masked,Masked,Masked
 247600,Tawa North,Capital and Coast,42,17,82,512,207
-247700,Linden,Capital and Coast,30,15,86,349,174
+247700,Linden,Capital and Coast,30,15,85,353,176
 247800,Tawa South,Capital and Coast,Masked,Masked,Masked,Masked,Masked
 247900,Tawa Central,Capital and Coast,Masked,Masked,Masked,Masked,Masked
 248000,Grenada North,Capital and Coast,Masked,Masked,Masked,Masked,Masked
 248100,Churton Park North,Capital and Coast,Masked,Masked,Masked,Masked,Masked
 248200,Takapu-Horokiwi,Capital and Coast,Masked,Masked,Masked,Masked,Masked
 248300,Churton Park South,Capital and Coast,Masked,Masked,Masked,Masked,Masked
-248400,Johnsonville West,Capital and Coast,20,6,43,465,140
+248400,Johnsonville West,Capital and Coast,20,7,43,465,163
 248500,Grenada Village,Capital and Coast,Masked,Masked,Masked,Masked,Masked
 248600,Johnsonville North,Capital and Coast,30,11,46,652,239
 248700,Paparangi,Capital and Coast,Masked,Masked,Masked,Masked,Masked
@@ -1448,7 +1448,7 @@ Unknown,NA,NA,596,246,1979,301,124
 249200,Johnsonville South,Capital and Coast,Masked,Masked,Masked,Masked,Masked
 249300,Khandallah Reserve,Capital and Coast,Masked,Masked,Masked,Masked,Masked
 249400,Karori Park,Capital and Coast,Masked,Masked,Masked,Masked,Masked
-249500,Newlands North,Capital and Coast,39,19,55,709,345
+249500,Newlands North,Capital and Coast,40,19,56,714,339
 249600,Ngaio South,Capital and Coast,Masked,Masked,Masked,Masked,Masked
 249700,Newlands South,Capital and Coast,35,20,64,547,312
 249800,Woodridge,Capital and Coast,Masked,Masked,Masked,Masked,Masked
@@ -1500,9 +1500,9 @@ Unknown,NA,NA,596,246,1979,301,124
 254600,Karaka Bay-Worser Bay,Capital and Coast,Masked,Masked,Masked,Masked,Masked
 254700,Houghton Bay,Capital and Coast,Masked,Masked,Masked,Masked,Masked
 254800,Miramar East,Capital and Coast,Masked,Masked,Masked,Masked,Masked
-254900,Miramar South,Capital and Coast,31,22,48,646,458
+254900,Miramar South,Capital and Coast,31,22,50,620,440
 255000,Rongotai,Capital and Coast,Masked,Masked,Masked,Masked,Masked
-255100,Strathmore (Wellington City),Capital and Coast,48,26,88,545,295
+255100,Strathmore (Wellington City),Capital and Coast,48,27,88,545,307
 255200,Seatoun,Capital and Coast,Masked,Masked,Masked,Masked,Masked
 255300,Kopuaranga,Wairarapa,Masked,Masked,Masked,Masked,Masked
 255400,Upper Plain,Wairarapa,Masked,Masked,Masked,Masked,Masked
@@ -1512,21 +1512,21 @@ Unknown,NA,NA,596,246,1979,301,124
 255800,Lansdowne West,Wairarapa,19,6,44,432,136
 255900,Masterton Central,Wairarapa,Masked,Masked,Masked,Masked,Masked
 256000,Kuripuni,Wairarapa,14,5,40,350,125
-256100,Douglas Park,Wairarapa,23,8,66,348,121
-256200,Solway South,Wairarapa,59,16,152,388,105
+256100,Douglas Park,Wairarapa,23,8,65,354,123
+256200,Solway South,Wairarapa,59,16,156,378,103
 256300,Lansdowne East,Wairarapa,33,9,98,337,92
 256400,Cameron and Soldiers Park,Wairarapa,24,11,85,282,129
 256500,Whareama,Wairarapa,16,Masked,47,340,<50
 256600,Homebush-Te Ore Ore,Wairarapa,Masked,Masked,Masked,Masked,Masked
-256700,McJorrow Park,Wairarapa,27,9,121,223,74
+256700,McJorrow Park,Wairarapa,27,9,120,225,75
 256800,Mount Holdsworth,Wairarapa,Masked,Masked,Masked,Masked,Masked
-256900,Carterton North,Wairarapa,21,7,48,438,146
+256900,Carterton North,Wairarapa,21,7,49,429,143
 257000,Kokotau,Wairarapa,Masked,Masked,Masked,Masked,Masked
-257100,Carterton South,Wairarapa,27,13,62,435,210
+257100,Carterton South,Wairarapa,26,13,60,433,217
 257200,Gladstone (Carterton District),Wairarapa,Masked,Masked,Masked,Masked,Masked
 257300,Tauherenikau,Wairarapa,Masked,Masked,Masked,Masked,Masked
 257400,Kahutara,Wairarapa,Masked,Masked,Masked,Masked,Masked
-257500,Featherston,Wairarapa,27,17,83,325,205
+257500,Featherston,Wairarapa,27,17,82,329,207
 257700,Greytown,Wairarapa,Masked,Masked,Masked,Masked,Masked
 257800,Aorangi Forest,Wairarapa,Masked,Masked,Masked,Masked,Masked
 257900,Martinborough,Wairarapa,17,5,44,386,114
@@ -1563,26 +1563,26 @@ Unknown,NA,NA,596,246,1979,301,124
 303800,Marybank,Nelson Marlborough,Masked,Masked,Masked,Masked,Masked
 303900,Port Nelson,Nelson Marlborough,Masked,Masked,Masked,Masked,Masked
 304000,Nelson Airport,Nelson Marlborough,Masked,Masked,Masked,Masked,Masked
-304100,T?hunanui,Nelson Marlborough,15,5,63,238,79
+304100,T?hunanui,Nelson Marlborough,14,6,Masked,230,98
 304200,Britannia,Nelson Marlborough,Masked,Masked,Masked,Masked,Masked
 304300,Atawhai,Nelson Marlborough,Masked,Masked,Masked,Masked,Masked
 304400,Broadgreen-Monaco,Nelson Marlborough,18,Masked,46,391,87
 304500,Washington,Nelson Marlborough,27,Masked,68,397,59
-304600,Tahuna Hills,Nelson Marlborough,12,Masked,45,267,67
+304600,Tahuna Hills,Nelson Marlborough,11,Masked,44,250,68
 304700,Nelson Central-Trafalgar,Nelson Marlborough,Masked,Masked,Masked,Masked,Masked
 304800,The Wood,Nelson Marlborough,Masked,Masked,Masked,Masked,Masked
 304900,Toi Toi,Nelson Marlborough,11,Masked,45,244,89
 305000,Nayland,Nelson Marlborough,Masked,Masked,Masked,Masked,Masked
-305100,Aldinga,Nelson Marlborough,30,8,59,508,136
+305100,Aldinga,Nelson Marlborough,30,8,60,500,133
 305200,Victory,Nelson Marlborough,Masked,Masked,Masked,Masked,Masked
 305300,Rutherford,Nelson Marlborough,Masked,Masked,Masked,Masked,Masked
 305400,Maitlands,Nelson Marlborough,Masked,Masked,Masked,Masked,Masked
 305500,Maitai,Nelson Marlborough,Masked,Masked,Masked,Masked,Masked
-305600,Grampians,Nelson Marlborough,17,5,40,425,125
+305600,Grampians,Nelson Marlborough,19,5,42,452,119
 305700,Saxton,Nelson Marlborough,Masked,Masked,Masked,Masked,Masked
 305800,Suffolk,Nelson Marlborough,Masked,Masked,Masked,Masked,Masked
 305900,Omaio,Nelson Marlborough,15,6,57,263,105
-306000,Enner Glynn,Nelson Marlborough,21,6,45,467,133
+306000,Enner Glynn,Nelson Marlborough,19,6,43,442,140
 306100,Daelyn,Nelson Marlborough,Masked,Masked,Masked,Masked,Masked
 306200,The Brook,Nelson Marlborough,Masked,Masked,Masked,Masked,Masked
 306300,Marlborough Sounds West,Nelson Marlborough,Masked,Masked,Masked,Masked,Masked
@@ -1592,11 +1592,11 @@ Unknown,NA,NA,596,246,1979,301,124
 306800,Waitohi (Marlborough District),Nelson Marlborough,41,14,81,506,173
 306900,Tuamarina,Nelson Marlborough,Masked,Masked,Masked,Masked,Masked
 307000,Awatere,Nelson Marlborough,20,11,40,500,275
-307100,Renwick,Nelson Marlborough,20,8,50,400,160
+307100,Renwick,Nelson Marlborough,22,8,54,407,148
 307200,Lower Wairau,Nelson Marlborough,Masked,Masked,Masked,Masked,Masked
 307300,Woodbourne,Nelson Marlborough,25,13,46,543,283
 307400,Spring Creek-Grovetown,Nelson Marlborough,Masked,Masked,Masked,Masked,Masked
-307500,Springlands,Nelson Marlborough,20,13,54,370,241
+307500,Springlands,Nelson Marlborough,20,13,55,364,236
 307600,Yelverton,Nelson Marlborough,Masked,Masked,Masked,Masked,Masked
 307700,Mayfield,Nelson Marlborough,15,5,65,231,77
 307800,Whitney West,Nelson Marlborough,20,9,65,308,138
@@ -1634,7 +1634,7 @@ Unknown,NA,NA,596,246,1979,301,124
 311200,Haast,West Coast,Masked,Masked,Masked,Masked,Masked
 311300,Westland Glaciers-Bruce Bay,West Coast,Masked,Masked,Masked,Masked,Masked
 311400,Arahura-Kumara,West Coast,Masked,Masked,Masked,Masked,Masked
-311500,Hokitika,West Coast,39,17,82,476,207
+311500,Hokitika,West Coast,41,19,83,494,229
 311700,Hokitika Rural,West Coast,Masked,Masked,Masked,Masked,Masked
 311800,Waitaha,West Coast,Masked,Masked,Masked,Masked,Masked
 311900,Whataroa-Harihari,West Coast,Masked,Masked,Masked,Masked,Masked
@@ -1670,13 +1670,13 @@ Unknown,NA,NA,596,246,1979,301,124
 315000,Southbrook,Canterbury,Masked,Masked,Masked,Masked,Masked
 315100,Swannanoa-Eyreton,Canterbury,Masked,Masked,Masked,Masked,Masked
 315200,Tuahiwi,Canterbury,Masked,Masked,Masked,Masked,Masked
-315300,Woodend,Canterbury,23,13,54,426,241
+315300,Woodend,Canterbury,23,13,53,434,245
 315400,Pegasus,Canterbury,30,14,47,638,298
 315500,Clarkville,Canterbury,Masked,Masked,Masked,Masked,Masked
 315600,Pegasus Bay,Canterbury,Masked,Masked,Masked,Masked,Masked
-315700,Kaiapoi North West,Canterbury,9,Masked,40,225,75
+315700,Kaiapoi North West,Canterbury,9,Masked,41,220,73
 315800,Silverstream (Waimakariri District),Canterbury,Masked,Masked,Masked,Masked,Masked
-315900,Sovereign Palms,Canterbury,27,8,61,443,131
+315900,Sovereign Palms,Canterbury,27,8,62,435,129
 316000,Kaiapoi West,Canterbury,Masked,Masked,Masked,Masked,Masked
 316100,Kaiapoi Central,Canterbury,16,5,42,381,119
 316200,Kaiapoi South,Canterbury,Masked,Masked,Masked,Masked,Masked
@@ -1709,7 +1709,7 @@ Unknown,NA,NA,596,246,1979,301,124
 318900,Avonhead West,Canterbury,Masked,Masked,Masked,Masked,Masked
 319000,Bishopdale South,Canterbury,Masked,Masked,Masked,Masked,Masked
 319100,Islington-Hornby Industrial,Canterbury,Masked,Masked,Masked,Masked,Masked
-319200,Burnside,Canterbury,15,Masked,48,312,62
+319200,Burnside,Canterbury,13,Masked,46,283,<50
 319300,Hei Hei,Canterbury,31,18,72,431,250
 319400,Papanui North,Canterbury,18,6,54,333,111
 319500,Avonhead East,Canterbury,Masked,Masked,Masked,Masked,Masked
@@ -1730,7 +1730,7 @@ Unknown,NA,NA,596,246,1979,301,124
 321000,Sockburn North,Canterbury,Masked,Masked,Masked,Masked,Masked
 321100,Hornby South,Canterbury,34,16,86,395,186
 321200,Ilam University,Canterbury,Masked,Masked,Masked,Masked,Masked
-321300,Prestons,Canterbury,39,18,62,629,290
+321300,Prestons,Canterbury,38,18,61,623,295
 321400,Strowan,Canterbury,Masked,Masked,Masked,Masked,Masked
 321500,Fendalton,Canterbury,Masked,Masked,Masked,Masked,Masked
 321600,Waitikiri,Canterbury,Masked,Masked,Masked,Masked,Masked
@@ -1751,7 +1751,7 @@ Unknown,NA,NA,596,246,1979,301,124
 323100,Mairehau South,Canterbury,24,11,66,364,167
 323200,Mona Vale,Canterbury,Masked,Masked,Masked,Masked,Masked
 323300,Riccarton West,Canterbury,11,Masked,44,250,68
-323400,Shirley West,Canterbury,42,14,101,416,139
+323400,Shirley West,Canterbury,42,14,102,412,137
 323500,Middleton,Canterbury,Masked,Masked,Masked,Masked,Masked
 323600,Wigram South,Canterbury,Masked,Masked,Masked,Masked,Masked
 323700,Queenspark,Canterbury,55,24,102,539,235
@@ -1783,27 +1783,27 @@ Unknown,NA,NA,596,246,1979,301,124
 326600,Christchurch Central,Canterbury,Masked,Masked,Masked,Masked,Masked
 326700,Hoon Hay West,Canterbury,28,13,83,337,157
 326800,Richmond South (Christchurch City),Canterbury,Masked,Masked,Masked,Masked,Masked
-326900,Spreydon West,Canterbury,20,9,42,476,214
+326900,Spreydon West,Canterbury,20,9,43,465,209
 327000,Christchurch Central-East,Canterbury,Masked,Masked,Masked,Masked,Masked
 327100,Christchurch Central-South,Canterbury,Masked,Masked,Masked,Masked,Masked
-327200,North Beach,Canterbury,44,11,98,449,112
+327200,North Beach,Canterbury,44,11,99,444,111
 327300,Halswell North,Canterbury,Masked,Masked,Masked,Masked,Masked
 327400,Addington East,Canterbury,Masked,Masked,Masked,Masked,Masked
 327500,Avondale (Christchurch City),Canterbury,20,5,60,333,83
-327600,Spreydon North,Canterbury,19,8,69,275,116
+327600,Spreydon North,Canterbury,20,9,70,286,129
 327700,Hoon Hay East,Canterbury,17,7,51,333,137
-327800,Avonside,Canterbury,16,9,44,364,205
-327900,Linwood West,Canterbury,23,12,77,299,156
+327800,Avonside,Canterbury,16,9,43,372,209
+327900,Linwood West,Canterbury,23,12,76,303,158
 328000,Halswell South,Canterbury,Masked,Masked,Masked,Masked,Masked
 328100,Sydenham Central,Canterbury,Masked,Masked,Masked,Masked,Masked
 328200,Spreydon South,Canterbury,Masked,Masked,Masked,Masked,Masked
 328300,Rawhiti,Canterbury,28,13,82,341,159
 328400,Wainoni,Canterbury,26,10,100,260,100
 328500,Linwood North,Canterbury,25,10,66,379,152
-328600,Aranui,Canterbury,72,25,237,304,105
+328600,Aranui,Canterbury,72,25,240,300,104
 328700,Sydenham West,Canterbury,Masked,Masked,Masked,Masked,Masked
 328800,Lancaster Park,Canterbury,Masked,Masked,Masked,Masked,Masked
-328900,Phillipstown,Canterbury,36,26,79,456,329
+328900,Phillipstown,Canterbury,35,25,78,449,321
 329000,Kennedys Bush,Canterbury,Masked,Masked,Masked,Masked,Masked
 329100,Somerfield East,Canterbury,24,11,40,600,275
 329200,Somerfield West,Canterbury,Masked,Masked,Masked,Masked,Masked
@@ -1816,22 +1816,22 @@ Unknown,NA,NA,596,246,1979,301,124
 329900,Waltham,Canterbury,Masked,Masked,Masked,Masked,Masked
 330000,Westmorland,Canterbury,Masked,Masked,Masked,Masked,Masked
 330100,Woolston North,Canterbury,22,11,74,297,149
-330200,New Brighton,Canterbury,29,15,66,439,227
+330200,New Brighton,Canterbury,29,15,65,446,231
 330300,Cashmere West,Canterbury,Masked,Masked,Masked,Masked,Masked
-330400,Bromley South,Canterbury,41,14,101,406,139
+330400,Bromley South,Canterbury,41,16,100,410,160
 330500,Ensors,Canterbury,Masked,Masked,Masked,Masked,Masked
 330600,Beckenham,Canterbury,Masked,Masked,Masked,Masked,Masked
 330700,Bromley North,Canterbury,Masked,Masked,Masked,Masked,Masked
 330800,St Martins,Canterbury,Masked,Masked,Masked,Masked,Masked
 330900,Opawa,Canterbury,Masked,Masked,Masked,Masked,Masked
 331000,Woolston West,Canterbury,Masked,Masked,Masked,Masked,Masked
-331100,Woolston East,Canterbury,19,6,53,358,113
+331100,Woolston East,Canterbury,19,6,55,345,109
 331200,Huntsbury,Canterbury,Masked,Masked,Masked,Masked,Masked
 331300,Cashmere East,Canterbury,Masked,Masked,Masked,Masked,Masked
 331400,Hillsborough (Christchurch City),Canterbury,Masked,Masked,Masked,Masked,Masked
 331500,Woolston South,Canterbury,Masked,Masked,Masked,Masked,Masked
 331600,Port Hills,Canterbury,Masked,Masked,Masked,Masked,Masked
-331700,South New Brighton,Canterbury,28,10,73,384,137
+331700,South New Brighton,Canterbury,28,10,72,389,139
 331800,Brookhaven-Ferrymead,Canterbury,Masked,Masked,Masked,Masked,Masked
 331900,Heathcote Valley,Canterbury,Masked,Masked,Masked,Masked,Masked
 332000,Mount Pleasant,Canterbury,Masked,Masked,Masked,Masked,Masked
@@ -1860,7 +1860,7 @@ Unknown,NA,NA,596,246,1979,301,124
 334700,Burnham Camp,Canterbury,Masked,Masked,Masked,Masked,Masked
 334900,Rolleston North West,Canterbury,35,21,65,538,323
 335000,Springston,Canterbury,Masked,Masked,Masked,Masked,Masked
-335100,Rolleston Central,Canterbury,23,9,56,411,161
+335100,Rolleston Central,Canterbury,24,9,57,421,158
 335200,Rolleston North East,Canterbury,38,19,61,623,311
 335300,Rolleston South West,Canterbury,38,21,66,576,318
 335400,Southbridge,Canterbury,Masked,Masked,Masked,Masked,Masked
@@ -1870,7 +1870,7 @@ Unknown,NA,NA,596,246,1979,301,124
 335800,Irwell,Canterbury,Masked,Masked,Masked,Masked,Masked
 335900,Ladbrooks,Canterbury,Masked,Masked,Masked,Masked,Masked
 336000,Lincoln West,Canterbury,Masked,Masked,Masked,Masked,Masked
-336100,Lincoln East,Canterbury,31,16,47,660,340
+336100,Lincoln East,Canterbury,30,16,46,652,348
 336200,Leeston,Canterbury,24,12,45,533,267
 336300,Tai Tapu,Canterbury,Masked,Masked,Masked,Masked,Masked
 336400,Motukarara,Canterbury,Masked,Masked,Masked,Masked,Masked
@@ -1893,7 +1893,7 @@ Unknown,NA,NA,596,246,1979,301,124
 338200,Tinwald South,Canterbury,Masked,Masked,Masked,Masked,Masked
 338300,Ashburton East,Canterbury,Masked,Masked,Masked,Masked,Masked
 338400,Netherby,Canterbury,10,Masked,52,192,58
-338500,Hampstead,Canterbury,20,5,70,286,71
+338500,Hampstead,Canterbury,20,5,71,282,70
 338600,Ben McLeod,South Canterbury,Masked,Masked,Masked,Masked,Masked
 338700,Arundel,South Canterbury,Masked,Masked,Masked,Masked,Masked
 338800,Levels Valley,South Canterbury,Masked,Masked,Masked,Masked,Masked
@@ -1904,7 +1904,7 @@ Unknown,NA,NA,596,246,1979,301,124
 339300,Temuka West,South Canterbury,Masked,Masked,Masked,Masked,Masked
 339400,Hadlow,South Canterbury,Masked,Masked,Masked,Masked,Masked
 339500,Levels,South Canterbury,Masked,Masked,Masked,Masked,Masked
-339600,Temuka East,South Canterbury,19,Masked,54,352,74
+339600,Temuka East,South Canterbury,19,Masked,55,345,73
 339700,Gleniti North,South Canterbury,Masked,Masked,Masked,Masked,Masked
 339800,Washdyke,South Canterbury,Masked,Masked,Masked,Masked,Masked
 339900,Fairview,South Canterbury,Masked,Masked,Masked,Masked,Masked
@@ -1943,7 +1943,7 @@ Unknown,NA,NA,596,246,1979,301,124
 343700,Maheno,Southern,Masked,Masked,Masked,Masked,Masked
 343800,Weston,Southern,Masked,Masked,Masked,Masked,Masked
 343900,Oamaru North Milner Park,Southern,Masked,Masked,Masked,Masked,Masked
-344000,Oamaru North Orana Park,Southern,16,Masked,46,348,65
+344000,Oamaru North Orana Park,Southern,16,Masked,45,356,67
 344100,Oamaru Gardens,Southern,Masked,Masked,Masked,Masked,Masked
 344200,Glen Warren,Southern,Masked,Masked,Masked,Masked,Masked
 344300,Holmes Hill,Southern,Masked,Masked,Masked,Masked,Masked
@@ -1951,8 +1951,8 @@ Unknown,NA,NA,596,246,1979,301,124
 344500,South Hill,Southern,Masked,Masked,Masked,Masked,Masked
 344700,Palmerston,Southern,Masked,Masked,Masked,Masked,Masked
 344800,Lindis-Nevis Valleys,Southern,Masked,Masked,Masked,Masked,Masked
-344900,Cromwell West,Southern,18,9,43,419,209
-345000,Cromwell East,Southern,17,5,47,362,106
+344900,Cromwell West,Southern,19,9,44,432,205
+345000,Cromwell East,Southern,16,5,46,348,109
 345100,Manuherikia-Ida Valleys,Southern,Masked,Masked,Masked,Masked,Masked
 345200,Earnscleugh,Southern,Masked,Masked,Masked,Masked,Masked
 345300,Dunstan-Galloway,Southern,Masked,Masked,Masked,Masked,Masked
@@ -2022,11 +2022,11 @@ Unknown,NA,NA,596,246,1979,301,124
 352300,Kenmure,Southern,Masked,Masked,Masked,Masked,Masked
 352400,Campus West,Southern,Masked,Masked,Masked,Masked,Masked
 352500,Waldronville,Southern,Masked,Masked,Masked,Masked,Masked
-352600,Green Island,Southern,24,10,41,585,244
+352600,Green Island,Southern,24,10,42,571,238
 352700,Port Chalmers,Southern,Masked,Masked,Masked,Masked,Masked
 352900,Arthur Street,Southern,Masked,Masked,Masked,Masked,Masked
 353000,Opoho,Southern,Masked,Masked,Masked,Masked,Masked
-353300,Mornington,Southern,19,9,41,463,220
+353300,Mornington,Southern,19,9,42,452,214
 353400,Dunedin Central,Southern,Masked,Masked,Masked,Masked,Masked
 353500,Maryhill,Southern,Masked,Masked,Masked,Masked,Masked
 353600,Ravensbourne-St Leonards,Southern,Masked,Masked,Masked,Masked,Masked
@@ -2039,7 +2039,7 @@ Unknown,NA,NA,596,246,1979,301,124
 354400,Kew (Dunedin City),Southern,Masked,Masked,Masked,Masked,Masked
 354500,Corstorphine,Southern,20,8,42,476,190
 354600,Forbury,Southern,Masked,Masked,Masked,Masked,Masked
-354700,Bathgate Park,Southern,Masked,Masked,Masked,Masked,Masked
+354700,Bathgate Park,Southern,20,9,40,500,225
 354800,St Clair,Southern,Masked,Masked,Masked,Masked,Masked
 354900,Waverley,Southern,Masked,Masked,Masked,Masked,Masked
 355000,Macandrew Bay-Company Bay,Southern,Masked,Masked,Masked,Masked,Masked
@@ -2050,13 +2050,13 @@ Unknown,NA,NA,596,246,1979,301,124
 355500,St Kilda North,Southern,22,13,43,512,302
 355600,Andersons Bay,Southern,Masked,Masked,Masked,Masked,Masked
 355700,Tainui,Southern,Masked,Masked,Masked,Masked,Masked
-355800,West Otago,Southern,9,Masked,49,184,61
+355800,West Otago,Southern,9,Masked,47,191,64
 355900,Tuapeka,Southern,Masked,Masked,Masked,Masked,Masked
 356000,Clinton,Southern,Masked,Masked,Masked,Masked,Masked
 356100,Clutha Valley,Southern,Masked,Masked,Masked,Masked,Masked
 356200,Bruce,Southern,Masked,Masked,Masked,Masked,Masked
 356300,Catlins,Southern,Masked,Masked,Masked,Masked,Masked
-356400,Milton,Southern,14,Masked,57,246,70
+356400,Milton,Southern,14,Masked,59,237,68
 356500,Balclutha South,Southern,18,7,59,305,119
 356600,Balclutha North,Southern,Masked,Masked,Masked,Masked,Masked
 356700,Benhar-Stirling,Southern,Masked,Masked,Masked,Masked,Masked
@@ -2091,7 +2091,7 @@ Unknown,NA,NA,596,246,1979,301,124
 360300,Gore South,Southern,Masked,Masked,Masked,Masked,Masked
 360400,Mataura,Southern,14,5,84,167,60
 360500,West Plains-Makarewa,Southern,Masked,Masked,Masked,Masked,Masked
-360600,Prestonville-Grasmere,Southern,27,8,72,375,111
+360600,Prestonville-Grasmere,Southern,28,8,73,384,110
 360700,Donovan Park,Southern,22,8,47,468,170
 360800,Myross Bush,Southern,Masked,Masked,Masked,Masked,Masked
 360900,Otatara,Southern,43,28,56,768,500
@@ -2101,20 +2101,20 @@ Unknown,NA,NA,596,246,1979,301,124
 361300,Avenal,Southern,Masked,Masked,Masked,Masked,Masked
 361400,Hargest,Southern,Masked,Masked,Masked,Masked,Masked
 361500,Windsor,Southern,29,16,50,580,320
-361600,Richmond (Invercargill City),Southern,30,13,71,423,183
+361600,Richmond (Invercargill City),Southern,31,14,72,431,194
 361700,Glengarry,Southern,24,5,82,293,61
-361900,Turnbull Thompson Park,Southern,23,8,55,418,145
-362000,Crinan,Southern,9,Masked,57,158,70
-362100,Georgetown,Southern,15,Masked,70,214,57
+361900,Turnbull Thompson Park,Southern,22,8,54,407,148
+362000,Crinan,Southern,9,Masked,53,170,75
+362100,Georgetown,Southern,15,Masked,69,217,58
 362200,Kew (Invercargill City),Southern,18,9,67,269,134
 362300,Kennington-Tisbury,Southern,23,12,41,561,293
 362400,Newfield,Southern,21,8,86,244,93
 362500,Strathern,Southern,24,14,64,375,219
 362600,Elizabeth Park,Southern,11,5,47,234,106
-362700,Aurora,Southern,9,Masked,44,205,<50
+362700,Aurora,Southern,9,Masked,45,200,<50
 362800,Moulson,Southern,Masked,Masked,Masked,Masked,Masked
 362900,Kingswell,Southern,19,7,58,328,121
-363000,Clifton,Southern,18,8,64,281,125
+363000,Clifton,Southern,18,8,65,277,123
 363100,Woodend-Greenhills,Southern,Masked,Masked,Masked,Masked,Masked
 363300,Bluff,Southern,19,Masked,85,224,<50
 NA,Unknown,Unknown,Masked,Masked,Masked,Masked,Masked
