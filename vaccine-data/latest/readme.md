@@ -2,9 +2,9 @@
 
 ## Notes:
 
-Numbers include all records entered as at 2022-08-25 11:59PM
+Numbers include all records entered as at 2022-08-31 11:59PM
 
-Date extracted 2022-08-26
+Date extracted 2022-09-01
 
 Data is based on records entered into CIR as at the time of data upload
 
